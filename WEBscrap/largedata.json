@@ -1,0 +1,1851 @@
+ { "companies" : [
+                  {
+                   "name" : "ABB India Limited" ,
+                   
+                   "ticker" : "ABB" ,
+
+                   "address" : [ "World Trade Center","21st Floor Brigade Gateway, No. 26/1, Dr. Rajkumar Road Malleshwaram West","Bengaluru 560055","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 2294 9150" ,
+                                 "website" : "http://www.abb.co.in"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "5,590",
+                   
+                   "discription" : "ABB India Limited offers power and automation technology products to utilities, industries, channel partners, and original equipment manufacturers worldwide. The company operates through Robotics and Motion, Electrification Products, Industrial Automation, and Power Grids segments. The Robotics and Motion segment manufactures motors, generators, drives, and robotics, which provides power, motion, and control for a range of automation applications; and offers solutions and related services. The Electrification Products segment provides a range of digital and connected low and medium-voltage products, including EV infrastructure products, solar inverters, modular substations, distribution automation products, power protection products, wiring accessories, switchgears, enclosures, cables, and sensing and control products. The Industrial Automation segment offers products, systems, and services, such as turnkey engineering, control systems, measurement products, life cycle services, outsourced maintenance, and industry specific products for the optimization of the productivity of industrial processes in oil and gas, power, chemicals and pharmaceuticals, pulp and paper, metals and minerals, marine, and turbocharging industries. The Power Grids segment offers power and automation products, systems, services, and software solutions comprising grid integration, transmission, distribution, and automation solutions, as well as a range of high voltage products and transformers. The company was formerly known as ABB Limited and changed its name to ABB India Limited in June 2013. The company was incorporated in 1949 and is based in Bengaluru, India. ABB India Limited is a subsidiary of ABB Asea Brown Boveri Limited."
+
+                   },
+
+
+                  {
+                   "name" : "AEGIS LOGISTICS LTD." ,
+                   
+                   "ticker" : "AEGISLOG" ,
+
+                   "address" : [ "1202, Tower B","12th Floor, Peninsula Business Park Ganpatrao Kadam Marg Lower Parel (West)","Mumbai 400013","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6666 3666" ,
+                                 "website" : "http://www.aegisindia.com"
+                               },
+
+                   "sector" : "Energy",
+                   "industry" : "Oil & Gas Midstream",
+                   "full time employee" : "400",
+                   
+                   "discription" : "Aegis Logistics Limited, together with its subsidiaries, provides logistics and supply chain services to oil, gas, and chemical industries in India. It operates through two segments, Liquid Terminal Division and Gas Terminal Division. The Liquid Terminal division undertakes the storage and terminalling of facility of oil and chemical products. The Gas Terminal division is involved in the import, storage, and distribution of petroleum products, including liquefied petroleum gas (LPG), propane, etc. The company also offers supply chain management services, such as product planning, sourcing, shipping, receipt, storage, and dispatch by pipeline and tankers to the point of consumption. In addition, it provides engineering, procurement, and construction services to the oil and gas sector; retails auto LPG through autogas dispensing stations; distributes packed LPG cylinders directly to accounts, as well as through a network of distributors for commercial, industrial, and domestic customers; and supplies bunker fuels. Further, the company is involved in the wholesale of solid, liquid, and gaseous fuels and related products; and storage and warehousing of furniture, automobiles, gas and oil, chemicals, textiles, etc. Aegis Logistics Limited was incorporated in 1956 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "AMARA RAJA BATTERIES LTD." ,
+                   
+                   "ticker" : "AMARAJABAT" ,
+
+                   "address" : [ "Terminal A","1-18/1/AMR/NR Nanakramguda Gachibowli","Hyderabad 500032","India"],
+
+                   "contact" : {
+                                 "tel" : "91 40 2313 9000" ,
+                                 "website" : "http://www.amararaja.co.in"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "8,973",
+                   
+                   "discription" : "Amara Raja Batteries Limited manufactures and sells lead-acid storage batteries for industrial and automotive applications in India. It provides installation, commissioning, and maintenance services; and exports its products to various countries in the Indian Ocean Rim. The company also offers its batteries under the Amaron, PowerZone, Power Stack, AmaronVolt, and Quanta brands. It supplies its batteries to various customer groups, such as telecom, railways, power control, solar, and UPS; and automobile OEMs, replacement markets, and private label customers. The company was founded in 1985 and is based in Hyderabad, India."
+
+                   },
+
+
+                  {
+                   "name" : "AMBALAL SARABHAI ENTERPRISES LTD." ,
+                   
+                   "ticker" : "AMBALALSA" ,
+
+                   "address" : [ "Shanti Sadan","Mirzapur Road","Ahmedabad 380001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 79 2550 7671" ,
+                                 "website" : ""
+                               },
+
+                   "sector" : "Healthcare",
+                   "industry" : "Drug Manufacturers - Major",
+                   "full time employee" : "",
+                   
+                   "discription" : "Ambalal Sarabhai Enterprises Limited, together with its subsidiaries, manufactures, trades in, and deals in pharmaceuticals internationally. It operates through Pharmaceuticals and Electronics & Broadcast Equipments segments. The company offers drug and pharmaceutical formulations; products for oncology, infertility, and Uro-gynaec areas under the Sarabhai house brand name; generic products; antifungal active; and analytical, test, and measuring instruments, as well as supplies finished dosage forms and active pharmaceutical ingredients. It also provides broadcast and professional video and audio products, and electronic instruments and services. Ambalal Sarabhai Enterprises Limited markets its pharmaceutical products through its distributors. The company also exports its pharmaceutical products. Ambalal Sarabhai Enterprises Limited was incorporated in 1978 and is based in Ahmedabad, India."
+
+                   },
+
+
+                  {
+                   "name" : "HOUSING DEVELOPMENT FINANCE CORP.LTD." ,
+                   
+                   "ticker" : "HDFC" ,
+
+                   "address" : [ "HDFC House","H T Parekh Marg 165-166, Backbay Reclamation Churchgate","Mumbai 400020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6631 6000" ,
+                                 "website" : "http://www.hdfc.com"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Specialty Finance",
+                   "full time employee" : "",
+                   
+                   "discription" : "Housing Development Finance Corporation Limited provides housing finance to individuals and corporate customers in India. The company accepts fixed deposits, such as monthly income plans, non-cumulative interest plans, annual income plans, and cumulative options; and trust deposits. It offers loans for the purchase/construction of houses; home improvement and extension, plot, and short term bridging loans; loans to agriculturists, planters, horticulturists, and dairy farmers; loans for the salaried/self-employed individuals; loans for non-resident Indians; loans against property; and loans for non-residential premises, as well as education loans. In addition, the company provides cross-selling products and services; investment advisory services; life insurance products; general insurance products, including motor, health, travel, crop, home, personal accident, property, marine, aviation, and liability insurance; venture capital funds; asset management services comprising portfolio management, mutual fund, and property investment management; and other services consisting of project management, investment consultancy, and property related services. It operates through a network of 474 outlets. The company was founded in 1977 and is headquartered in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "ANDHRA PETROCHEMICALS LTD." ,
+                   
+                   "ticker" : "ANDHRAPET" ,
+
+                   "address" : [ "Venkatarayapuram","West Godavari District","Tanuku 534215","India"],
+
+                   "contact" : {
+                                 "tel" : "91 88 1922 4075" ,
+                                 "website" : "http://www.andhrapetrochemicals.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "",
+                   
+                   "discription" : "The Andhra Petrochemicals Limited manufactures and sells oxo-alcohols in India. The company's oxo-alcohol includes 2-ethyl hexanol, which is used in applications, such as plasticizers, stabilizers, solvents, acrylates, and finishing compounds for ink; production of 2-ethyl hexyl acrylate; and nitrate esters, lube and fuel additives, surfactants, mining, solvent extractions, oil floatations, agricultural chemicals, engine machinery lubrication applications, etc., as well as N-butanol and I-butanol products. The Andhra Petrochemicals Limited was founded in 1984 and is based in Tanuku, India."
+
+                   },
+
+
+                  {
+                   "name" : "ANSAL PROPERTIES &amp; INFRASTRUCTURE LTD." ,
+                   
+                   "ticker" : "ANSALAPI" ,
+
+                   "address" : [ "115, Ansal Bhawan","16, Kasturba Gandhi Marg","New Delhi 110001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 2335 3550" ,
+                                 "website" : "http://www.ansalapi.com"
+                               },
+
+                   "sector" : "Real Estate",
+                   "industry" : "Real Estate - General",
+                   "full time employee" : "",
+                   
+                   "discription" : "Ansal Properties & Infrastructure Limited engages in the real estate development business in India. The company develops hi-tech and integrated townships, condominiums, group housing, malls, shopping complexes, hotels, SEZs, IT Parks, and infrastructure and utility services, as well as other mixed-use and stand-alone developments in the residential, commercial, retail, and hospitality segments. It also provides facilities management services. The company was founded in 1967 and is based in New Delhi, India."
+
+                   },
+
+
+                  {
+                   "name" : "APPLE FINANCE LTD." ,
+                   
+                   "ticker" : "APPLEFIN" ,
+
+                   "address" : [ "8, Apeejay House","130 Mumbai Samachar Marg","Mumbai 400023","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2288 6100" ,
+                                 "website" : "http://www.applefinance.co.in"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Credit Services",
+                   "full time employee" : "",
+                   
+                   "discription" : "Apple Finance Limited does not have significant operations. Previously, it was engaged primarily in computer education and financial services. The company was formerly known as Apple Leasing & Computers Limited and changed its name to Apple Finance Limited as a result of the demerger of its Computer Education division to Aptech Limited in 1996. Apple Finance Limited was incorporated in 1985 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "ARUNA HOTELS LTD." ,
+                   
+                   "ticker" : "ARUNAHTEL" ,
+
+                   "address" : [ "Aruna Centre","144-145, Sterling Road Nungambakkam","Chennai 600034","India"],
+
+                   "contact" : {
+                                 "tel" : "91 44 3988 4422" ,
+                                 "website" : "http://www.arunahotels.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Lodging",
+                   "full time employee" : "",
+                   
+                   "discription" : "Aruna Hotels Limited engages in the hotel operation business in India. It operates Hotel Aruna ? Chennai, which includes various facilities, such as 91 rooms, restaurant, swimming pool, banquet halls, gymnasium, cocktail lounge/bar, and business center. The company was incorporated in 1960 and is based in Chennai, India."
+
+                   },
+
+
+                  {
+                   "name" : "BOMBAY DYEING &amp; MFG.CO.LTD." ,
+                   
+                   "ticker" : "BOMDYEING" ,
+
+                   "address" : [ "C-1, Wadia International Center","Pandurang Budhkar Marg Worli","Mumbai 400025","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6662 0000" ,
+                                 "website" : "http://www.bombaydyeing.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Textile Manufacturing",
+                   "full time employee" : "644",
+                   
+                   "discription" : "The Bombay Dyeing and Manufacturing Company Limited produces and sells polyester staple fiber products in India. It operates through Real Estate, Polyster, and Retail/Textile segments. The company is also involved in the manufacture of textile grade PET chips; and manufacture and retail of home textiles, including bedsheets, canvas, bath products, and co-ordinates. In addition, it develops real estate properties, such as residences, offices, hotels, serviced apartments, hospitals, schools, and retail facilities. The company also sells its products online, as well as exports its products to Europe, North and South America, the Middle East, Africa, and Asia. The Bombay Dyeing and Manufacturing Company Limited was founded in 1879 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "Asian Hotels (North) Limited" ,
+                   
+                   "ticker" : "ASIANHOTNR" ,
+
+                   "address" : [ "Bhikaiji Cama Place","M. G. Marg","New Delhi 110066","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 6677 1225" ,
+                                 "website" : "http://www.asianhotelsnorth.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Lodging",
+                   "full time employee" : "",
+                   
+                   "discription" : "Asian Hotels (North) Limited engages in the hospitality/hotel business in India. The company owns and operates Hyatt Regency, a five-star deluxe hotel in Delhi. It also operates two wind turbine generators in Maharashtra. In addition, the company provides offshore project consultancy services; and develops Villa Hotel Complex, including residential villas and golf course in Goa. Asian Hotels (North) Limited was incorporated in 1980 and is based in New Delhi, India."
+
+                   },
+
+
+                  {
+                   "name" : "Assam Company (India) Limited" ,
+                   
+                   "ticker" : "ASSAMCO" ,
+
+                   "address" : [ "Assam Tea House","52, Chowringhee Road","Kolkata 700071","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2283 8306" ,
+                                 "website" : "http://www.assamco.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Farm Products",
+                   "full time employee" : "",
+                   
+                   "discription" : "Assam Company India Limited primarily engages in the cultivation, manufacture, and sale of tea in India and internationally. The company owns 14 tea estates in Assam. It also has interest in two oil and gas fields/blocks, including Amguri and AA-ON/7 located in the Arakan Basin in Assam. Assam Company India Limited was founded in 1839 and is headquartered in Kolkata, India."
+
+                   },
+
+
+                  {
+                   "name" : "ATUL LTD." ,
+                   
+                   "ticker" : "ATUL" ,
+
+                   "address" : [ "Atul","Valsad 396020","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 26 3223 0000" ,
+                                 "website" : "http://www.atul.co.in"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "",
+                   
+                   "discription" : "Atul Ltd manufactures and sells chemical products worldwide. It operates in two segments, Life Science Chemicals; and Performance and Other Chemicals. It offers aromatics, such as ambrettolide, anethole, cresol mixture, manganese sulphate monohydrate, ortho cresol and methoxy toluene, phenyl acetic acid, skatole, and sodium sulfite and sulphate, as well as para anisic aldehyde, anisyl acetate and alcohol, anisyl propanal, cresidine, cresol, cresyl acetate and methyl ether, methoxy phenyl acetic acid and aceto nitrile; and 1,3-cyclohexanedione, 2-methylresorcinol, 4-chlororesorcinol, 4-hexylresorcinol, anisole, caustic soda lye, chlorosulphonic and hydrochloric acid, gypsum, hydrogen gas, liquid chlorine, liquid sulphur dioxide and trioxide, oleum, resoform, resorcinol, resorcinol dimethyl ether, sodium hypochlorite, sodium sulphite, and sulphuric acid. It also provides vat, reactive, sulphur, direct, disperse, acid/metal complex, solvent, and basic dyes; azoics colorants; organic pigments; optical brighteners; natural and synthetic food colors; and bulk chemicals, dye intermediates, and cement additives. In addition, it offers fungicides, herbicides, insecticides, and intermediates; amino acid derivatives, active pharmaceutical ingredients (API), API intermediates, and phosgene derivatives; and epoxy resins, curing agents, reactive diluents, sulfones, paints and adhesives, synthetic rubber, polyurethane, cyanoacrylate, PVC, and PVA. Further, it produces tissue culture raised date palm plants. It serves various industries, including adhesives, agriculture, animal feed, automobile, composites, construction, cosmetic, defense, dyestuff, electrical, electronics, flavor, food, footwear, fragrance, glass, home care, horticulture, hospitality, paint and coatings, paper, personal care, pharmaceutical, plastic, polymer, rubber, soap and detergent, sports, leisure, textile, tire, and wind energy. Atul Ltd was founded in 1947 and is headquartered in Valsad, India."
+
+                   },
+
+
+                  {
+                   "name" : "ATV PROJECTS INDIA LTD." ,
+                   
+                   "ticker" : "ATVPR" ,
+
+                   "address" : [ "1201, Wind Fall Building","12th Floor Sahar Plaza Complex Andheri-Kurla Road, Andheri (East)","Mumbai 400059","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2838 0349" ,
+                                 "website" : "http://www.atvprojects.co.in"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Engineering & Construction",
+                   "full time employee" : "",
+                   
+                   "discription" : "ATV Projects India Limited manufactures and trades in engineering equipment in India. It offers desalters, cryogenic vessels, distillation columns, pressure vessels, heat exchangers, boilers, reactors, bullets, strippers, horton spheres, autoclaves, chemical plant equipment, towers, sugar plant equipment, tank-lined/unlined, cement plant equipment, mixers, hydro power plant equipment, crystallization, and evaporators; and bagasse fired water tube boilers, multifuel water and smoke tube boilers, fluidized bed combustion boilers, and waste heat recovery boilers. The company also constructs tanks for storing chemicals and petroleum products; and manufactures and sells fixed and floating roof tanks, as well as Horton spheres. Its products are used in nuclear, oil and gas, chemical, fertilizer, power plant, petrochemical, cement, sugar, and refinery fields. The company was founded in 1978 and is headquartered in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "AUTOLITE (INDIA) LTD." ,
+                   
+                   "ticker" : "AUTOLITIND" ,
+
+                   "address" : [ "Vishwakarma Industrial Area","D-469, Road No. 9A","Jaipur 302013","India"],
+
+                   "contact" : {
+                                 "tel" : "91 14 1233 3994" ,
+                                 "website" : "http://www.autopal.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Parts",
+                   "full time employee" : "",
+                   
+                   "discription" : "Autolite (India) Limited manufactures and sells automotive head lamps and halogen bulbs in India. The company also offers work lamps, LED lamps, fog lamps, turn signal lamps, incandescent bulbs, and miniature bulbs; and auxiliary, agricultural equipment/earth mover, and other lamps, as well as machines, dies, and molds. It serves original equipment manufacturers, as well as the replacement market. The company also exports its products to approximately 55 countries worldwide. Autolite (India) Limited was founded in 1970 and is based in Jaipur, India."
+
+                   },
+
+
+                  {
+                   "name" : "BAJAJ ELECTRICALS LTD.-$" ,
+                   
+                   "ticker" : "BAJAJELEC" ,
+
+                   "address" : [ "51, Mahatma Gandhi Road","Fort","Mumbai 400023","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2204 3780" ,
+                                 "website" : "http://www.bajajelectricals.com"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Consumer Electronics",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bajaj Electricals Limited engages in the consumer durables; and engineering, procurement, and construction businesses in India. It operates through Consumer Products; and Engineering & Projects, and Others segments. The company offers various appliances, including toasters, mixer-grinders, food processors, juicer mixer grinders, juicers, choppers and hand blenders, wet grinders, OTGs, microwave ovens, electric kettles, coffee makers, sandwich/pop-up toasters, induction cookers, rice cookers, pressure cookers, gas stoves, choppers, non-electric kitchen aids, platini products, irons, storage water heaters, gas water heaters, instant water heaters, room heaters, air coolers, hand mixers, electric cookers, and hair dryers. It also provides various fans comprising ceiling, table, pedestal, wall, personal, domestic, and heavy duty exhaust fans, as well as air circulators. In addition, the company offers luminaires, including industrial, commercial, cityscape, street, and area lighting products; and integrated building management solutions. Further, it provides general lighting service, special incandescent, fluorescent, compact fluorescent lamps, consumer luminaires, halogen and HID lamps, and various LED products and electrical accessories. Additionally, the company is involved in the design, engineering, supply, execution, and commissioning of illumination EPC SBU, power distribution, transmission line towers and sub-station SBU, high mast lighting systems, and lighting poles projects. It also generates wind energy. The company was formerly known as Radio Lamp Works Limited and changed its name to Bajaj Electricals Limited in October 1960. The company was incorporated in 1938 and is headquartered in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "Bajaj Hindusthan Sugar Limited" ,
+                   
+                   "ticker" : "BAJAJHIND" ,
+
+                   "address" : [ "Bajaj Bhawan B-10","Sector 3 Jamnalal Bajaj Marg","Noida 201301","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 0254 3939" ,
+                                 "website" : "http://www.bajajhindusthan.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "7,245",
+                   
+                   "discription" : "Bajaj Hindusthan Sugar Limited manufactures and sells sugar and alcohol/ethanol in India. It operates through Sugar and Distillery and Power segments. The company also generates power from the bagasse produced in its sugar mills; and sells power to the Uttar Pradesh State grid. In addition, it offers various sugar by-products, such as molasses, bagasse, fly ash, and press mud; and bio-compost/bio-manure. Further, the company serves alcohol-based chemical plants and oil companies. The company was formerly known as Bajaj Hindusthan Limited and changed its name to Bajaj Hindusthan Sugar Limited in January 2015. Bajaj Hindusthan Sugar Limited was incorporated in 1931 and is based in Noida, India."
+
+                   },
+
+
+                  {
+                   "name" : "FORCE MOTORS LTD.-$" ,
+                   
+                   "ticker" : "FORCEMOT" ,
+
+                   "address" : [ "Mumbai-Pune Road","Akurdi","Pune 411035","India"],
+
+                   "contact" : {
+                                 "tel" : "91 20 2747 6381" ,
+                                 "website" : "http://www.forcemotors.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Manufacturers",
+                   "full time employee" : "",
+                   
+                   "discription" : "Force Motors Limited, an integrated automobile company, designs, develops, manufactures, and sells automotive components, aggregates, and vehicles in India. The company offers light commercial vehicles, multi-utility vehicles, small commercial vehicles, sports utility vehicles, and agricultural tractors, as well as diesel engines. It offers its products under the Traveller, TRAX, Gurkha, Balwan, and Kargo King. Force Motors Limited also exports its products to various countries in the Middle East, Asia, Latin America, and Africa. The company was incorporated in 1958 and is based in Pune, India. Force Motors Limited is a subsidiary of Jaya Hind Investments Private Limited."
+
+                   },
+
+
+                  {
+                   "name" : "Bajaj Finance Limited" ,
+                   
+                   "ticker" : "BAJFINANCE" ,
+
+                   "address" : [ "Bajaj Finserv Corporate Office","3rd and 4th Floor Panchshil Tech Park, Off Pune ? Ahmednagar Road Viman Nagar","Pune 411 014","India"],
+
+                   "contact" : {
+                                 "tel" : "91 20 3040 5060" ,
+                                 "website" : "http://www.bajajfinserv.in/finance"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Credit Services",
+                   "full time employee" : "15,266",
+                   
+                   "discription" : "Bajaj Finance Limited operates as a non-banking financial company in India. The company offers consumer financing, including durable finance, lifestyle finance, digital product finance, EMI cards, personal loans, loan against fixed deposits, extended warranties, gold loans, professional loans, home loans, retail EMIs, and e-commerce and co-branded credit card services. It also provides SME lending services, such as e-commerce seller finance, home loans, loans against property, gold loans, lease rental discounting services, business loans, loans against shares, and professional loans; and commercial lending services comprising auto component vendor financing, large value lease rental discounting, loan against securities, financial institutions lending, light engineering finance, and corporate finance services. In addition, the company offers fixed deposits and mutual funds, and rural lending services. The company was formerly known as Bajaj Auto Finance Limited and changed its name to Bajaj Finance Limited in September 2010. The company was incorporated in 1987 and is based in Pune, India. Bajaj Finance Limited is a subsidiary of Bajaj Finserv Limited."
+
+                   },
+
+
+                  {
+                   "name" : "BALRAMPUR CHINI MILLS LTD." ,
+                   
+                   "ticker" : "BALRAMCHIN" ,
+
+                   "address" : [ "FMC Fortuna","2nd Floor 234/3A, A.J.C. Bose Road","Kolkata 700020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2287 4749" ,
+                                 "website" : "http://www.chini.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "4,967",
+                   
+                   "discription" : "Balrampur Chini Mills Limited, an integrated sugar manufacturing company, manufactures and sells sugar from sugarcane in India. The company operates through three segments: Sugar, Cogeneration, and Distillery. It also offers molasses, industrial alcohol, ethanol, and bagasse. In addition, the company is involved in the generation and sale of electricity. Balrampur Chini Mills Limited was founded in 1975 and is headquartered in Kolkata, India."
+
+                   },
+
+
+                  {
+                   "name" : "BANCO PRODUCTS (INDIA) LTD.-$" ,
+                   
+                   "ticker" : "BANCOINDIA" ,
+
+                   "address" : [ "Bil, Near Bhaili Railway Station","Padra Road","Vadodara 391410","India"],
+
+                   "contact" : {
+                                 "tel" : "91 26 5268 0220" ,
+                                 "website" : "http://www.bancoindia.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Parts",
+                   "full time employee" : "",
+                   
+                   "discription" : "Banco Products (India) Limited, together with its subsidiaries, designs, develops, manufactures, and sells automobile components for original equipment manufacturers in India, Europe, the United States, and internationally. The company offers engine cooling systems, such as brazed aluminum and copper brass radiators, inter-coolers, charge air coolers, and transmission and hydraulic type oil coolers; condensers, fuel coolers, and inverter and battery coolers; and accessories, such as expansion tanks, fan motor assemblies, fan shrouds and guards, and mounting plumbing accessories. It also provides sealing gaskets, including multi layered cylinder head gaskets; graphite composite gaskets; steel fiber composite gaskets; compressed fiber joining sheets/non-asbestos gaskets; aluminum edge molded gaskets; copper gaskets; rubber cork gaskets; and rubber precoated beaded gaskets. In addition, the company offers jointing gaskets and sheets; rubber products; and heat transfer products. Its products are primarily used in commercial vehicles, agricultural tractors and related machineries, power generation equipment, traction rail locomotives, earth moving equipment, material handling equipment, gensets, windmills, motorcycles, forestry equipment, and compressors. Banco Products (India) Limited was founded in 1961 and is based in Vadodara, India."
+
+                   },
+
+
+                  {
+                   "name" : "CENTURY TEXTILES &amp; INDUSTRIES LTD." ,
+                   
+                   "ticker" : "CENTURYTEX" ,
+
+                   "address" : [ "Century Bhavan","Dr. Annie Besant Road Worli","Mumbai 400030","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2495 7000" ,
+                                 "website" : "http://www.centurytextind.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Building Materials",
+                   "full time employee" : "6,928",
+                   
+                   "discription" : "Century Textiles and Industries Limited manufactures and sells cement, textiles, and pulp and paper products in India. It operates through Textiles, Pulp and Paper, Cement, Real Estate, and Others segments. The company offers Portland Pozzolana cement, Portland slag cement, clinker, and ordinary Portland cement under the Birla Gold brand. It also provides shirting, suiting, fancy and finer varieties, and bed linen; and cotton textiles. In addition, the company offers writing and printing paper, tissue papers, and multilayer packaging boards, as well as raw material for viscose filament yarns, staple fibers, and paper grade pulp products. Further, it is involved in leasing of residential, commercial, and retail spaces; and undertaking salt works and chemicals business. The company also exports its products. Century Textiles and Industries Limited was incorporated in 1897 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "BANNARI AMMAN SUGARS LTD." ,
+                   
+                   "ticker" : "BANARISUG" ,
+
+                   "address" : [ "1212, Trichy Road","Coimbatore 641018","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 42 2230 2277" ,
+                                 "website" : "http://www.bannari.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "1,893",
+                   
+                   "discription" : "Bannari Amman Sugars Limited primarily produces and sells sugar in India. It operates through Sugar, Power, Distillery, and Granite Products segments. The company manufactures and sells cane sugar; industrial alcohol, and extra neutral spirits; and granite blocks, and polished granite slabs and tiles; It also operates co-generation power plants and wind mills. The company was incorporated in 1983 and is based in Coimbatore, India."
+
+                   },
+
+
+                  {
+                   "name" : "BASF INDIA LTD." ,
+                   
+                   "ticker" : "BASF" ,
+
+                   "address" : [ "Plot No.12, TTC Area","Thane Belapur Road Turbhe","Navi Mumbai 400705","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6712 7777" ,
+                                 "website" : "http://www.basf.com/in"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "1,804",
+                   
+                   "discription" : "BASF India Limited manufactures and sells agricultural solutions, performance products, chemicals, and functional materials worldwide. Its Agricultural Solutions segment provides crop protection products, such as insecticides, herbicides, fungicides, and plant growth regulators. The company's Performance Products segment offers performance chemicals, dispersions and pigments, care chemicals, nutrition and health products, and paper chemicals for plastics and coatings, detergent formulators, pharmaceuticals, automobile, and oil industries. Its Chemicals segment provides intermediates, petrochemicals, and monomers to a range of industries, including pharmaceuticals, agrochemicals, coatings, epoxy, leather, food and feed, adhesives, dyes, etc. The company's Functional Materials & Solutions segment offers coatings for passenger cars, commercial vehicles, and two wheelers; construction chemicals; and construction systems, such as industrial floorings, grouting and anchoring systems, concrete repair and protection materials, crack repair and injection resins, joint sealants, tiling products, waterproofing membranes, and exterior insulation and facade systems. This segment also provides process catalysts to refining, petrochemicals, and downstream base and fine chemicals industries; and performance materials to consumer, construction, and industrial product applications, as well as to transportation industries. BASF India Limited was incorporated in 1943 and is based in Navi Mumbai, India. BASF India Limited operates as a subsidiary of BASF SE."
+
+                   },
+
+
+                  {
+                   "name" : "BATA INDIA LTD." ,
+                   
+                   "ticker" : "BATAINDIA" ,
+
+                   "address" : [ "Bata House","418/02, MG Road Sector - 17","Gurugram 122002","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 4399 0100" ,
+                                 "website" : "http://www.bata.in"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Footwear & Accessories",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bata India Limited manufactures and trades in footwear and accessories through its retail and wholesale network in India. The company offers footwear in the categories of women, children, youth, sports, and men; and accessories, such as belts, wallets and clutches, handbags, and shoe care products for men, women, and kids. It sells its products primarily under the Bata, Bubblegummers, Bata Comfit, Footin, Disney, Hush Puppies, Marie Claire, Naturalizer, North Star, Power, Scholl, and Weinbrenner brands. The company operates through approximately 1,375 retail stores. It also exports its products. The company was formerly known as Bata Shoe Company Private Limited and changed its name to Bata India Limited in 1973. The company was incorporated in 1931 and is based in Gurugram, India. Bata India Limited is a subsidiary of Bata (BN) B.V."
+
+                   },
+
+
+                  {
+                   "name" : "BEML LTD." ,
+                   
+                   "ticker" : "BEML" ,
+
+                   "address" : [ "BEML Soudha","23/1, 4th Main Sampangiramanagar","Bengaluru 560027","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 2296 3240" ,
+                                 "website" : "http://www.bemlindia.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "11,748",
+                   
+                   "discription" : "BEML Limited provides products and services to the mining and construction, rail and metro, and defense and aerospace sectors in India. The company offers mining machinery for opencast and underground mines; and produces machines, such as electric rope shovels, hydraulic excavators, bulldozers, wheel loaders, wheel dozers, dump trucks, motor graders, pipe layers, tire handlers, water sprinklers, backhoe loaders, mammoth walking draglines, side discharge loaders, load haul dumpers, winches, winders, granby cars, skips, etc. It also provides equipment for railways comprising integral rail coaches, overhead electric inspection cars, postal vans, AC/DC electric multiple units, D-EMUs, utility track vehicles, track laying equipment, broad-gauge rail buses, treasury vans, spoil disposal units, etc. In addition, the company manufactures defense equipment, including Tatra vehicles for all terrain operations, which comprise bridge layers, field artillery tractors, medium and heavy recovery vehicles, pontoon mainstream bridge systems, crash fire tenders, mobile mast vehicles, etc.; and supplies engineering mine ploughs, tank transportation trailers, weapon loading equipment, armored recovery vehicles, milrail coaches and wagons, aircraft weapon loading trolleys, and aircraft towing tractors, as well as jigs, fixtures, ground support and test equipment, and customized engineering services and solutions for the aerospace market. Further, it offers diesel engines and generator sets; hydraulic pumps, hydraulic cylinders, hydro-pneumatic suspensions, and control valves; and transmission, axle, and bevel gear products, as well as ejector and air cleaner assembly, and final drive products. Additionally, the company distributes industrial products and intermediaries; and exports its products to approximately 62 countries worldwide. The company was formerly known as Bharat Earth Movers Limited. BEML Limited was founded in 1964 and is based in Bengaluru, India."
+
+                   },
+
+
+                  {
+                   "name" : "BHARAT ELECTRONICS LTD." ,
+                   
+                   "ticker" : "BEL" ,
+
+                   "address" : [ "Outer Ring Road","Nagavara","Bengaluru 560045","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 2503 9300" ,
+                                 "website" : "http://www.bel-india.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Aerospace & Defense",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bharat Electronics Limited designs, manufactures, supplies, and exports electronic products/systems for defense and nondefense markets in India and internationally. Its defense products include defense communication products, land-based radars, naval systems, electronic warfare systems, avionics, electro optics, tank and armored fighting vehicle electronic systems, weapon systems, C4I systems, shelters and masts, simulators, and batteries; microwave tubes and power modules, microwave super components, digital multichannel data recorders, and hybrid micro circuits; and micro electro mechanical systems. The company's non defense products comprise e-governance systems, homeland security products, civil radars, integrated traffic management systems, solar power solutions, and telecom and broadcast systems; and PD and strategic products, silicon radiation detectors, passive vacuum devices, EMI filters, anti collision lights, and multichannel voice logging recorder systems. In addition, it offers electronic manufacturing services, such as PCB assembly and testing, precision machining and fabrication, optoelectronic components and assemblies, microwave integrated circuit assemblies, super components modules, cable assemblies and wiring harnesses, and antennae manufacturing services, as well as design and manufacture of transformers, coils, chokes, and sub-assemblies. Bharat Electronics Limited was incorporated in 1954 and is based in Bengaluru, India."
+
+                   },
+
+
+                  {
+                   "name" : "BHANSALI ENGINEERING POLYMERS LTD.-$" ,
+                   
+                   "ticker" : "BEPL" ,
+
+                   "address" : [ "Peninsula Heights","4th Floor, Unit No. 401 C D Barfiwala Road Andheri (West)","Mumbai 400058","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2621 6060" ,
+                                 "website" : "http://www.bhansaliabs.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "466",
+                   
+                   "discription" : "Bhansali Engineering Polymers Limited operates as an integrated petrochemical company in India. It manufactures and sells acrylonitrile butadiene styrene (ABS) and styrene acrylonitrile (SAN) resins/polymers. The company's products include general, heat resistant, flame retardant, transparent, and extrusion ABS; and ABS-polycarbonate alloys, glass reinforced ABS and SAN, PMMA-ABS alloys, and PVC modifiers. Its ABS resins are used as a raw material for companies dealing in automobiles, home appliances, telecommunications, luggage, bus body, and various other applications. Bhansali Engineering Polymers Limited was incorporated in 1986 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "BHUSHAN STEEL LTD." ,
+                   
+                   "ticker" : "BHUSANSTL" ,
+
+                   "address" : [ "23, Site IV","Sahibabad Industrial Area","Ghaziabad 201010","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 0302 8000" ,
+                                 "website" : "http://www.bhushan-group.org"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Steel",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bhushan Steel Limited operates as a secondary steel producing company in India. It offers hot rolled coils, cold rolled steel coils and sheets, galvanized plain coils and sheets, galume sheets, color coated coils and tiles, hardened and tempered steel strips, high tensile steel strappings and strips, API pipes, alloy billets, and sponge iron, as well as OEM grade tubes, CRCAs, CRFHs, precision tubes, HFW/ERW pipes, and 3LP coated pipes. The company serves automobile, white goods/domestic appliances, and general engineering industries. It also exports its products internationally. The company was formerly known as Bhushan Steel & Strips Ltd. Bhushan Steel Limited was incorporated in 1983 and is based in Ghaziabad, India. As of May 18, 2018, Bhushan Steel Limited operates as a subsidiary of Tata Steel Limited."
+
+                   },
+
+
+                  {
+                   "name" : "BIHAR SPONGE IRON LTD." ,
+                   
+                   "ticker" : "BIHSPONG" ,
+
+                   "address" : [ "Umesh Nagar","Chandil 832401","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 65 9123 2410" ,
+                                 "website" : "http://www.bsil.org.in"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Steel",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bihar Sponge Iron Limited engages in the manufacture, production, purchase, export, and sale of sponge iron. The company was founded in 1982 and is based in Chandil, India."
+
+                   },
+
+
+                  {
+                   "name" : "BINANI INDUSTRIES LTD." ,
+                   
+                   "ticker" : "BINANIIND" ,
+
+                   "address" : [ "Mercantile Chambers","12, J.N. Heredia Marg Ballard Estate","Mumbai 400001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 3026 3000" ,
+                                 "website" : "http://www.binaniindustries.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Building Materials",
+                   "full time employee" : "",
+                   
+                   "discription" : "Binani Industries Limited, through its subsidiaries, manufactures and sells cement, zinc, and glass fiber and construction products in India and internationally. It also provides logistics and management services; and engages in the trading of shares and securities. In addition, the company offers ordinary Portland cement, Pozzolona Portland cement, and ground granulated blast-furnace slags; and fiberglass products and technologies for the reinforcement of thermoplastics and thermosets, and high-grade glass fiber. Further, it provides engineering, procurement, and construction services; consultancy and engineering services; and manufacturing services. Additionally, the company publishes a portfolio of trade journals, which provide information on the happenings in the metals, construction, and infrastructure industries, such as Minerals and Metals Review, a monthly magazine; Minerals and Metals Review Weekly, a tabloid that provides weekly wrap-up and updates on metal and market prices, trade intelligence, crucial industry issues, and news; Metals Today Daily, a daily electronic newsletter; and Construction Industry Review, a weekly tabloid. It also engages in the trading and export of goods; and provision of management support services and sublicensing of intellectual property rights, such as brands, logos, trademarks, etc. In addition, the company engages in infrastructure activities; provision of manpower management services; and the manufacture and trade of concrete admixture, cement products, clinker, limestone products, and electric power products. Binani Industries Limited was founded in 1872 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "Birla Cable Ltd" ,
+                   
+                   "ticker" : "BIRLACABLE" ,
+
+                   "address" : [ "Udyog Vihar","PO Chorhata","Rewa 486006","India"],
+
+                   "contact" : {
+                                 "tel" : "91 76 6240 0580" ,
+                                 "website" : "http://www.birlacable.com"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Communication Equipment",
+                   "full time employee" : "282",
+                   
+                   "discription" : "Birla Cable Limited manufactures and sells optical fiber cables, copper telecommunication cables, structured copper cables, and specialty wires and cables in India. The company provides optical fiber cables, including armored and unarmored, multi-tube ribbon type, di-electric rodent protected, di-electric self-supporting aerial, figure-8 type aerial, drop, central and multi tube micro, and interconnect cables. It also offers specialty cables, such as stainless steel wire armored tactical, fiber to antenna, coaxial, data communication, switchboard, drop, screened PCM, and CAT cables, as well as automobile wires. In addition, the company provides telecom fiber accessories comprising connectors, adapters, pigtails, patch cords, rackmounts, wall mounts, and cable accessories. Birla Cable Limited also exports its products. The company was formerly known as Birla Ericsson Optical Limited and changed its name to Birla Cable Limited in September 2016. Birla Cable Limited was incorporated in 1992 and is based in Rewa, India."
+
+                   },
+
+
+                  {
+                   "name" : "BLUE STAR LTD." ,
+                   
+                   "ticker" : "BLUESTARCO" ,
+
+                   "address" : [ "Kasturi Buildings","Mohan T Advani Chowk Jamshedji Tata Road","Mumbai 400020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6665 4000" ,
+                                 "website" : "http://www.bluestarindia.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "2,819",
+                   
+                   "discription" : "Blue Star Limited engages in the central air conditioning and commercial refrigeration business in India and internationally. The company operates through Electro Mechanical Projects and Packaged Air-Conditioning Systems, Unitary Products, and Professional Electronics and Industrial Systems segments. The Electro Mechanical Projects and Packaged Air-Conditioning Systems segment designs, manufactures, installs, commissions, and maintains central air conditioning plants, packaged/ducted systems, and variable refrigerant flow systems; and provides contracting services in electrification, plumbing, and fire-fighting, as well as after-sales services, such as revamp, retrofit, and upgrade services. The Unitary Products segment offers room air conditioners for residential and commercial applications, water purifiers, air purifiers, and air coolers; and manufactures and markets a range of commercial refrigeration products and cold chain equipment. The Professional Electronics and Industrial Systems segment trades and services testing machines, medical, analytical, test and measuring, data communications, and industrial products and systems. Blue Star Limited was founded in 1943 and is headquartered in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "DISA INDIA LTD." ,
+                   
+                   "ticker" : "DISAQ" ,
+
+                   "address" : [ "Kushal Garden Arcade","5th Floor 1A, Peenya Industrial Area Peenya 2nd Phase","Bengaluru 560058","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 4020 1400" ,
+                                 "website" : "http://www.disagroup.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "",
+                   
+                   "discription" : "Disa India Limited develops, manufactures, and sells a range of metal casting production solutions in India and internationally. It offers molding solutions for the production of castings; mixers, sand multi controllers, and casting and sand cooling equipment; cassette type, cartridge type, pulse jet cylindrical bag, and silo vent filters; and airblast and wheelblast equipment, shortblast parts and services, and wheelabrator surface preparation equipment. The company also provides spare parts and upgrades, foundry optimization and training services. It serves automotive, agriculture, home and kitchen, infrastructure, machinery and engineering, and municipality industries. The company was incorporated in 1984 and is based in Bengaluru, India. DISA India Limited is a subsidiary of DISA Holding AG."
+
+                   },
+
+
+                  {
+                   "name" : "BNK CAPITAL MARKETS LTD." ,
+                   
+                   "ticker" : "BNKCAP" ,
+
+                   "address" : [ "Mayfair Towers","2, Palm Avenue","Kolkata 700019","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2281 0560" ,
+                                 "website" : "http://www.bnkcapital.com/AboutUs/BNKCapitaMkt.aspx?id=2"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Capital Markets",
+                   "full time employee" : "",
+                   
+                   "discription" : "BNK Capital Markets Limited, a non-banking financial company, provides investment banking distribution, corporate finance, and advisory services in India. It operates an integrated investment portal for investors. The company was founded in 1986 and is based in Kolkata, India."
+
+                   },
+
+
+                  {
+                   "name" : "BPL LTD." ,
+                   
+                   "ticker" : "BPL" ,
+
+                   "address" : [ "No. 64, Church Street","Bengaluru 560001","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "" ,
+                                 "website" : "http://www.bpl.in"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Consumer Electronics",
+                   "full time employee" : "",
+                   
+                   "discription" : "BPL Limited manufactures and sells electronic products primarily in India. The company offers televisions, washing machines, refrigerators, microwave ovens, and others; and home security and automation solutions. It also provides products for consumer telecom, enterprise communication, and power line communication; and lighting solutions for infrastructure, enterprise, and home applications, as well as printed circuit boards. The company offers its products under the BPL brand, as well as sells its products through online. BPL Limited was founded in 1963 and is based in Bengaluru, India."
+
+                   },
+
+
+                  {
+                   "name" : "CENTURY EXTRUSIONS LTD." ,
+                   
+                   "ticker" : "CENTEXT" ,
+
+                   "address" : [ "?N' Block","2nd Floor 113, Park Street","Kolkata 700016","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2229 1012" ,
+                                 "website" : "http://www.centuryextrusions.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Aluminum",
+                   "full time employee" : "341",
+                   
+                   "discription" : "Century Extrusions Limited manufactures and sells aluminum extruded products in India and internationally. It provides profiles for architectural applications, such as building systems, structural glazing, curtain walls, aluminum rolling shutters, windows, doors, partitions, false ceilings, tower bolts, hand rails, door handles, hinges, drapery rods, modular furniture, etc.; aluminum form works; road transport sections; rail coach windows and doors; manufacture of automobile components; and heat transfer in electronics and electrical gadgets. The company also offers profiles for electrical applications, including tubes and flats for bus bars; transmission line hardware, such as P.G. clamps; and H-connectors, repair sleeves, lugs, solar panels, etc. In addition, it provides profiles for engineering applications comprising motor housings, gear pump casings, ferrules, A.C. louvers, machinery parts, elevators, pneumatic actuators, pneumatic cylinders, valve bodies, etc.; and various defense applications and others. Further, the company offers extruded and cold drawn round bars, and hexagonal bars for various engineering applications; and extruded and cold drawn rods/wires in coil form for use as armor rods, lamp pin stock, metalizing wire, rivet stock, welding filler wire, etc. Additionally, it manufactures power transmission and distribution line hardware. The company markets its products under the Century brand name. Century Extrusions Limited was incorporated in 1988 and is headquartered in Kolkata, India."
+
+                   },
+
+
+                  {
+                   "name" : "CESC LTD." ,
+                   
+                   "ticker" : "CESC" ,
+
+                   "address" : [ "CESC House","Chowringhee Square","Kolkata 700001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2225 6040" ,
+                                 "website" : "http://www.cesc.co.in"
+                               },
+
+                   "sector" : "Utilities",
+                   "industry" : "Utilities - Independent Power Producers",
+                   "full time employee" : "",
+                   
+                   "discription" : "CESC Limited, a power utility company, engages in the generation, transmission, and distribution of electricity to approximately 3.1 million domestic, industrial, and commercial users in the area of 567 square kilometers (km) of Kolkata and Howrah, West Bengal in India. It owns and operates three thermal power plants, including Budge Budge, Southern, and Titagarh generating stations generating 1125 megawatts (MW) of power; two thermal power plants with a capacity of power in Chandrapur, Maharashtra and Asansol, West Bengal; and transmission and distribution systems that comprise 474 km circuit of transmission lines linking the company's generating and receiving stations with 105 distribution stations, as well as 8,211 km circuit of HT lines, and 12,269 km circuit of LT lines. The company also owns and operates four wind power projects with a capacity of 24 MW at Dangri in Rajasthan; 26 MW at Surendranagar, Gujarat; 36 MW at Nipaniya, Madhya Pradesh; and 70 MW at Rojmal, Gujarat, as well as a solar plant with generating capacity of approximately 18 MW of power in Ramnathapuram, Tamil Nadu. In addition, it operates 124 stores under the Spencer's brand name comprising 39 hypermarkets and 29 cafes at high street/shopping malls, business and industry locations, hospital premises, and universities. The company's stores cater family needs covering groceries, home and personal care products, apparel and accessories, consumer durables, and lifestyle products. Further, it offers business process management services, such as customer management, transaction processing, and collection services to healthcare, telecom and media, banking, financial services, and insurance companies. Additionally, CESC Limited has a shopping mall, the Quest. The company was formerly known as The Calcutta Electric Supply Corporation (India) Limited and changed its name to CESC Limited in January 1987. CESC Limited was founded in 1897 and is headquartered in Kolkata, India."
+
+                   },
+
+
+                  {
+                   "name" : "CHAMBAL FERTILISERS &amp; CHEMICALS LTD." ,
+                   
+                   "ticker" : "CHAMBLFERT" ,
+
+                   "address" : [ "Corporate One","First Floor 5, Commercial Centre Jasola","New Delhi 110025","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 4658 1300" ,
+                                 "website" : "http://www.chambalfertilisers.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Agricultural Inputs",
+                   "full time employee" : "1,280",
+                   
+                   "discription" : "Chambal Fertilisers and Chemicals Limited, together with its subsidiaries, manufactures and sells fertilizers in India and internationally. It operates through Fertilisers and Other Agri Inputs segments. The company offers urea; and other agri-inputs, including di-ammonium phosphate, murate of potash, single super phosphate, pesticides, and seeds, as well as insecticides, fungicides, herbicides, NPK fertilizers, agrochemicals, Sulphur, micro-nutrients, complex fertilizers, and city compost primarily under the Uttam brand. It is also involved in designing, developing, marketing, and distribution of software products for the mortgage lending industry. The company was incorporated in 1985 and is based in New Delhi, India."
+
+                   },
+
+
+                  {
+                   "name" : "EXIDE INDUSTRIES LTD." ,
+                   
+                   "ticker" : "EXIDEIND" ,
+
+                   "address" : [ "Exide House","59E Chowringhee Road","Kolkata 700020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2302 3400" ,
+                                 "website" : "http://www.exideindustries.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Parts",
+                   "full time employee" : "3,918",
+                   
+                   "discription" : "Exide Industries Limited designs, manufactures, markets, and sells lead acid storage batteries and allied products in India and internationally. It offers batteries under the EXIDE, INDEX, DYNEX, SF SONIC, CHLORIDE, and CEIL brand names. The company provides life insurance products through individual agents, corporate agents, banks, etc.; manufactures and supplies recycled lead and lead alloys; manufactures and sells battery chargers, D.C power systems, solar installations, and associated equipment; and produces and distributes industrial battery chargers, rectifiers, and parts. The company sells its batteries through a distribution network and dealer outlets. Its products are used in automotive, power, telecommunication, solar, and computer industries; infrastructural projects; and railway, mining, and defence sectors. The company was formerly known as Chloride Industries Ltd. and changed its name to Exide Industries Limited in August 1995. Exide Industries Limited was founded in 1916 and is headquartered in Kolkata, India."
+
+                   },
+
+
+                  {
+                   "name" : "CIPLA LTD." ,
+                   
+                   "ticker" : "CIPLA" ,
+
+                   "address" : [ "Cipla House","Peninsula Business Park Ganpatrao Kadam Marg Lower Parel","Mumbai 400013","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2482 6000" ,
+                                 "website" : "http://www.cipla.com"
+                               },
+
+                   "sector" : "Healthcare",
+                   "industry" : "Drug Manufacturers - Major",
+                   "full time employee" : "",
+                   
+                   "discription" : "Cipla Limited, together with its subsidiaries, manufactures and sells pharmaceutical products in India. It offers active pharmaceutical ingredients; and formulations in various therapeutic areas, such as women's health, cardiovascular, children's health, dermatology and cosmeceuticals, diabetes, HIV-AIDS, hepatitis, oncology, infectious diseases and critical care, malaria, neurosciences, ophthalmology, osteoporosis, respiratory, and urology. The company also provides inhalation therapy devices comprising metered-dose inhalers, dry powder inhalers, nasal sprays, nebulizers, and inhalation accessory devices, as well as spacers and related devices. In addition, it exports its products to Africa, the Middle East, Latin America, Asia, North America, Australia, New Zealand, Russia, and internationally. Cipla Limited was founded in 1935 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "DIC INDIA LTD." ,
+                   
+                   "ticker" : "DICIND" ,
+
+                   "address" : [ "C-55A & B, Phase II","Gautam Budh Nagar District","Noida 201305","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 0486 8500" ,
+                                 "website" : "http://www.dicindialtd.co"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "522",
+                   
+                   "discription" : "DIC India Limited manufactures and sells printing inks and allied materials in India. The company offers offset inks, gravure inks, flexo inks, can coatings, news inks, and packaging adhesives; lamination adhesives; UV varnishes; packaging solutions; chemical solution materials, including fine chemicals, polymers, compounds, and application materials; and value added services to the printing fraternity. It serves newspapers, magazines, packaging, and printing establishments. The company was formerly known as Coates of India Limited and changed its name to DIC India Limited in August 2004. DIC India Limited was founded in 1937 and is based in Noida, India. DIC India Limited is a subsidiary of DIC Asia Pacific Pte Limited."
+
+                   },
+
+
+                  {
+                   "name" : "CRISIL LTD." ,
+                   
+                   "ticker" : "CRISIL" ,
+
+                   "address" : [ "CRISIL House","Central Avenue Hiranandani Business Park Powai","Mumbai 400076","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 3342 3000" ,
+                                 "website" : "http://www.crisil.com"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Capital Markets",
+                   "full time employee" : "3,904",
+                   
+                   "discription" : "CRISIL Limited, an analytical company, together with its subsidiaries, provides ratings, data, research, and risk and policy advisory services in India, China, Singapore, Hong Kong, the United Kingdom, Poland, Argentina, and the United States of America. It operates in three segments: Ratings, Research, and Advisory. The Ratings services segment include credit ratings for corporates, banks, bank loans, and small and medium enterprises; credit analysis services; and grading services. It serves lenders, investors, issuers, and market intermediaries, as well as regulators by covering manufacturing companies, such as banks, NBFCs, PSUs, financial institutions, state governments, urban local bodies, and mutual funds. The Research segment provides research and analytical services, industry reports, customized research assignments, subscription to data services, independent equity research, initial public offering grading, and training services. The Advisory segment offers advisory services; and risk management tools, analytics, and solutions to financial institutions. The company provides research support services to investment research, sales and marketing, client analytics, digital marketing, and portfolio analytics, as well as services related to debt and hybrid indices. It also offers analytics and data to the capital and commodity markets. The company was formerly known as The Credit Rating Information Services of India Limited and changed its name to CRISIL Limited in December 2003. CRISIL Limited was founded in 1987 and is headquartered in Mumbai, India. CRISIL Limited is a subsidiary of S&P Global Inc."
+
+                   },
+
+
+                  {
+                   "name" : "CG Power and Industrial Solutions Ltd" ,
+                   
+                   "ticker" : "CGPOWER" ,
+
+                   "address" : [ "CG House","6th Floor Dr. Annie Besant Road Worli","Mumbai 400030","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2423 7777" ,
+                                 "website" : "http://www.cgglobal.com"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Electronics Distribution",
+                   "full time employee" : "5,655",
+                   
+                   "discription" : "CG Power and Industrial Solutions Limited provides various solutions to utilities, industries, and consumers for the management and application of electrical energy worldwide. It operates through Power Systems and Industrial Systems segments. The Power Systems segment offers power and distribution transformers, circuit breakers, switchgears, instrument transformers, lightning arrestors, isolators, and vacuum interrupters. This segment also undertakes design, products, procurement, construction, erection, and servicing of turnkey transmission and distribution projects, as well as substation projects. The Industrial Systems segment provides motors, AC and DC drives, AC generators, variable frequency drives and solutions, soft starters and shaft power monitors, rotary heat exchangers with switch reluctance motors, traction electronics and traction machines for railway transportation, railway signaling equipment, and stampings. The company serves utilities and industries in generation, transmission, distribution, renewables, oil and gas, cement, metals and mining, and railway and transportation sectors. It has strategic alliance agreement with Tenaga Switchgear Sdn. Bhd. for product development and promotion of 11 kV gas insulated switchgear in Malaysia. The company was formerly known as Crompton Greaves Limited and changed its name to CG Power and Industrial Solutions Limited in February 2017. CG Power and Industrial Solutions Limited was founded in 1937 and is based in Mumbai, India."
+
+                   },
+
+
+                  {
+                   "name" : "DABUR INDIA LTD." ,
+                   
+                   "ticker" : "DABUR" ,
+
+                   "address" : [ "Kaushambi, Sahibabad","Ghaziabad 201010","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 12 0396 2100" ,
+                                 "website" : "http://www.dabur.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Household & Personal Products",
+                   "full time employee" : "7,144",
+                   
+                   "discription" : "Dabur India Limited operates as a fast moving consumer goods company worldwide. It operates through Consumer Care Business, Food Business, and Others segments. The company manufactures and sells health supplements under the Dabur Chyawanprash, Dabur Honey, and Dabur Glucose brands; digestive products under the Dabur Hajmola, Pudin Hara, and Nature Care brands; and shampoos under the Dabur Almond and Vatika brands. It also provides hair oils under the Dabur Amla, Vatika, and Almond brands; skin care products under the Dabur Gulabari, Oxylife Bleach, and Dabur Fem brands; and oral care products under the Dabur Red Paste, Dabur Meswak, Dabur Babool, and Dabur Lal Dant Manjan brands. In addition, the company offers fruit juices under the Réal and Réal Activ brands; various cooking pastes under the Hommade brand name; and beverages under the Hajmola Yoodley brand name. Further, it provides energizers and rejuvenators under the Shilajit and Shilajit Gold names; cough and cold products under the Dabur Honitus brand name; women's health products under the Dabur Ashokarishta name; ayurvedic baby massage oil under the Dabur Lal Tail name; tonics for babies under the Dabur Gripe Water and Dabur Janam Ghunti names; tonic for weakness and exhaustion under the Dabur Lohasava name; and ayurvedic ethical products. Additionally, the company offers mosquito repellents under the Odomos brand name; air fresheners under the Odonil name; toilet cleaners under the Sanifresh brand name; dish wash products under the Odopic name; and natural gums products under brand name DABISCO. It also operates specialized beauty retail stores that offer a range of cosmetics, fragrances, skin care, and personal care products, as well as beauty and fashion accessories under the NewU brand name. Dabur India Limited was founded in 1884 and is based in Ghaziabad, India."
+
+                   },
+
+
+                  {
+                   "name" : "Dalmia Bharat Sugar and Industries Ltd" ,
+                   
+                   "ticker" : "DALMIASUG" ,
+
+                   "address" : [ "Hansalaya Building","11th and 12th Floors 15, Barakhamba Road","New Delhi 110001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 2331 0121" ,
+                                 "website" : "http://www.dalmiasugar.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "",
+                   
+                   "discription" : "Dalmia Bharat Sugar and Industries Limited engages in the sugar business primarily in India. It operates through Own Manufactured Sugar, Power, Distillery, and Others segments. The company manufactures and sells sugar to institutional buyers, defense sector, and public distribution system; and by-products, such as bagasse and molasses to generate power. It also produces and sells alcohol, including rectified spirits, extra neutral alcohol, denatured spirits, and ethanol or power alcohol. In addition, the company generates and sells bagasse-based power through integrated plants with a capacity of 79 MW; operates wind farms with a total capacity of 16.5 MW located in Tamil Nadu; and is incubating a solar power plant with a capacity of 10 MW in Rajasthan. Further, it engages in the magnesite, travel, and electronics businesses; and production and sale of organic manure to farmers and tea estates. The company was incorporated in 1951 and is headquartered in New Delhi, India."
+
+                   },
+
+
+                  {
+                   "name" : "ARVIND LTD." ,
+                   
+                   "ticker" : "ARVIND" ,
+
+                   "address" : [ "Naroda Road","Ahmedabad 380025","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 79 3013 8000" ,
+                                 "website" : "http://www.arvind.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Textile Manufacturing",
+                   "full time employee" : "",
+                   
+                   "discription" : "Arvind Limited, together with its subsidiaries, manufactures, supplies, and exports textiles worldwide. It operates through Textiles, Branded Apparels, Arvind Internet, Engineering, and Other segments. It offers denim; woven and knit fabrics, such as jerseys, piques, ribs and interlocks, yarn-dyed, auto stripers, and jacquards and stretches, as well as athleisure and sportswear products; and long cloths, dress materials, and blouse materials using cotton, polyester viscose blend, polyester cotton blend, etc. The company also provides critical engineering process equipment, including heat exchangers, pressure vessels, reactors, columns/towers, and centrifuges for oil and gas, petrochemicals, and fertilizers and pharmaceuticals sectors; and a range of advanced materials, such as fire resistant fabrics and garments, work wears, filtration products, conveyor belt fabrics, coated products, and glass fabrics and structural composites. In addition, it operates approximately 1200 specialty retail stores that offer garments under various brand names, such as Flying Machine, Tommy Hilfiger, Arrow, US Polo, Izod, Elle, Cherokee, Mainstream, Excalibur, etc. Further, it supplies water and waste water treatment plants for industrial process, and waste water and zero liquid discharge solutions. Additionally, the company is involved in the e-commerce, technical textiles, agriculture produce, telecommunication, and other businesses, as well as offers EPABX and one to many radio solutions. Arvind Limited was founded in 1931 and is headquartered in Ahmedabad, India."
+
+                   },
+
+
+                  {
+                   "name" : "BALLARPUR INDUSTRIES LTD." ,
+                   
+                   "ticker" : "BALLARPUR" ,
+
+                   "address" : [ "Thapar House","124 Janpath","New Delhi 110001","India"],
+
+                   "contact" : {
+                                 "tel" : "" ,
+                                 "website" : "http://www.bilt.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Paper & Paper Products",
+                   "full time employee" : "",
+                   
+                   "discription" : "Ballarpur Industries Limited manufactures, sells, and exports writing and printing paper, pulp, and paper products in India and internationally. The company offers writing and printing papers comprising coated and uncoated wood-free papers, copier papers, and creamwove papers; specialty and tissue papers; and rayon grade pulp. It also provides office supplies and stationery; and retails its products under the brand P3. The company offers its copier paper products under the Copy Power, Image Copier, Ten on Ten, and BILT Matrix brands; aand uncoated wood-free products under the Magna and Wisdom Print brands. Ballarpur Industries Limited was incorporated in 1945 and is headquartered in New Delhi, India."
+
+                   },
+
+
+                  {
+                   "name" : "BHARAT HEAVY ELECTRICALS LTD." ,
+                   
+                   "ticker" : "BHEL" ,
+
+                   "address" : [ "BHEL House","Siri Fort","New Delhi 110049","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 6633 7000" ,
+                                 "website" : "http://www.bhel.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "45,666",
+                   
+                   "discription" : "Bharat Heavy Electricals Limited designs, engineers, manufactures, constructs, tests, commissions, and service products and services for the power, transmission, industry, transportation, renewable energy, oil and gas, and water and defense sectors in India and internationally. The company operates through Power and Industry segments. It offers power generation systems, including air preheaters, boilers, control relay panels, electrostatic precipitators, fabric filters, fans, gas turbines, hydro power plants, piping systems, pulverizers, pumps, seamless steel tubes, soot blowers, steam generators, steam turbines, turbogenerators, and valves. The company also provides industrial systems, such as capacitors, ceralins, compressors, desalination plants, diesel generating sets, industrial motors and alternators, gas turbines, oil field equipment, solar photovoltaics, power semiconductor devices, seamless steel tubes, sootblowers, steel castings and forgings, steam generators, steam turbines, turbogenerators, and valves; and transmission systems comprising power transformers/reactors, instrument transformers, switchgears, control and protection equipment, thyristor equipment, insulators, bushing products, and capacitors. In addition, it offers transportation systems consisting of electric rolling stocks, as well as electrics for rolling stocks and urban transportation systems. Further, The company provides non-conventional energy source products that include mini/micro hydro sets, solar photovoltaics, solar water heating systems, and wind electric generators, as well as research and development products, such as fuel cells, surface coatings, automated storage and retrieval products, load sensors, and transparent conducting oxides, as well as consultancy services. Bharat Heavy Electricals Limited was founded in 1964 and is based in New Delhi, India."
+
+                   }
+
+]  
+ } { "companies" : [
+                  {
+                   "name" : "ABB India Limited" ,
+                   
+                   "ticker" : "ABB" ,
+
+                   "address" : [ "World Trade Center","21st Floor Brigade Gateway, No. 26/1, Dr. Rajkumar Road Malleshwaram West","Bengaluru 560055","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 2294 9150" ,
+                                 "website" : "http://www.abb.co.in"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "5,590",
+                   
+                   "discription" : "ABB India Limited offers power and automation technology products to utilities, industries, channel partners, and original equipment manufacturers worldwide. The company operates through Robotics and Motion, Electrification Products, Industrial Automation, and Power Grids segments. The Robotics and Motion segment manufactures motors, generators, drives, and robotics, which provides power, motion, and control for a range of automation applications; and offers solutions and related services. The Electrification Products segment provides a range of digital and connected low and medium-voltage products, including EV infrastructure products, solar inverters, modular substations, distribution automation products, power protection products, wiring accessories, switchgears, enclosures, cables, and sensing and control products. The Industrial Automation segment offers products, systems, and services, such as turnkey engineering, control systems, measurement products, life cycle services, outsourced maintenance, and industry specific products for the optimization of the productivity of industrial processes in oil and gas, power, chemicals and pharmaceuticals, pulp and paper, metals and minerals, marine, and turbocharging industries. The Power Grids segment offers power and automation products, systems, services, and software solutions comprising grid integration, transmission, distribution, and automation solutions, as well as a range of high voltage products and transformers. The company was formerly known as ABB Limited and changed its name to ABB India Limited in June 2013. The company was incorporated in 1949 and is based in Bengaluru, India. ABB India Limited is a subsidiary of ABB Asea Brown Boveri Limited."
+
+                   },  
+
+
+                  {
+                   "name" : "AEGIS LOGISTICS LTD." ,
+                   
+                   "ticker" : "AEGISLOG" ,
+
+                   "address" : [ "1202, Tower B","12th Floor, Peninsula Business Park Ganpatrao Kadam Marg Lower Parel (West)","Mumbai 400013","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6666 3666" ,
+                                 "website" : "http://www.aegisindia.com"
+                               },
+
+                   "sector" : "Energy",
+                   "industry" : "Oil & Gas Midstream",
+                   "full time employee" : "400",
+                   
+                   "discription" : "Aegis Logistics Limited, together with its subsidiaries, provides logistics and supply chain services to oil, gas, and chemical industries in India. It operates through two segments, Liquid Terminal Division and Gas Terminal Division. The Liquid Terminal division undertakes the storage and terminalling of facility of oil and chemical products. The Gas Terminal division is involved in the import, storage, and distribution of petroleum products, including liquefied petroleum gas (LPG), propane, etc. The company also offers supply chain management services, such as product planning, sourcing, shipping, receipt, storage, and dispatch by pipeline and tankers to the point of consumption. In addition, it provides engineering, procurement, and construction services to the oil and gas sector; retails auto LPG through autogas dispensing stations; distributes packed LPG cylinders directly to accounts, as well as through a network of distributors for commercial, industrial, and domestic customers; and supplies bunker fuels. Further, the company is involved in the wholesale of solid, liquid, and gaseous fuels and related products; and storage and warehousing of furniture, automobiles, gas and oil, chemicals, textiles, etc. Aegis Logistics Limited was incorporated in 1956 and is based in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "AMARA RAJA BATTERIES LTD." ,
+                   
+                   "ticker" : "AMARAJABAT" ,
+
+                   "address" : [ "Terminal A","1-18/1/AMR/NR Nanakramguda Gachibowli","Hyderabad 500032","India"],
+
+                   "contact" : {
+                                 "tel" : "91 40 2313 9000" ,
+                                 "website" : "http://www.amararaja.co.in"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "8,973",
+                   
+                   "discription" : "Amara Raja Batteries Limited manufactures and sells lead-acid storage batteries for industrial and automotive applications in India. It provides installation, commissioning, and maintenance services; and exports its products to various countries in the Indian Ocean Rim. The company also offers its batteries under the Amaron, PowerZone, Power Stack, AmaronVolt, and Quanta brands. It supplies its batteries to various customer groups, such as telecom, railways, power control, solar, and UPS; and automobile OEMs, replacement markets, and private label customers. The company was founded in 1985 and is based in Hyderabad, India."
+
+                   },  
+
+
+                  {
+                   "name" : "AMBALAL SARABHAI ENTERPRISES LTD." ,
+                   
+                   "ticker" : "AMBALALSA" ,
+
+                   "address" : [ "Shanti Sadan","Mirzapur Road","Ahmedabad 380001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 79 2550 7671" ,
+                                 "website" : ""
+                               },
+
+                   "sector" : "Healthcare",
+                   "industry" : "Drug Manufacturers - Major",
+                   "full time employee" : "",
+                   
+                   "discription" : "Ambalal Sarabhai Enterprises Limited, together with its subsidiaries, manufactures, trades in, and deals in pharmaceuticals internationally. It operates through Pharmaceuticals and Electronics & Broadcast Equipments segments. The company offers drug and pharmaceutical formulations; products for oncology, infertility, and Uro-gynaec areas under the Sarabhai house brand name; generic products; antifungal active; and analytical, test, and measuring instruments, as well as supplies finished dosage forms and active pharmaceutical ingredients. It also provides broadcast and professional video and audio products, and electronic instruments and services. Ambalal Sarabhai Enterprises Limited markets its pharmaceutical products through its distributors. The company also exports its pharmaceutical products. Ambalal Sarabhai Enterprises Limited was incorporated in 1978 and is based in Ahmedabad, India."
+
+                   },  
+
+
+                  {
+                   "name" : "HOUSING DEVELOPMENT FINANCE CORP.LTD." ,
+                   
+                   "ticker" : "HDFC" ,
+
+                   "address" : [ "HDFC House","H T Parekh Marg 165-166, Backbay Reclamation Churchgate","Mumbai 400020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6631 6000" ,
+                                 "website" : "http://www.hdfc.com"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Specialty Finance",
+                   "full time employee" : "",
+                   
+                   "discription" : "Housing Development Finance Corporation Limited provides housing finance to individuals and corporate customers in India. The company accepts fixed deposits, such as monthly income plans, non-cumulative interest plans, annual income plans, and cumulative options; and trust deposits. It offers loans for the purchase/construction of houses; home improvement and extension, plot, and short term bridging loans; loans to agriculturists, planters, horticulturists, and dairy farmers; loans for the salaried/self-employed individuals; loans for non-resident Indians; loans against property; and loans for non-residential premises, as well as education loans. In addition, the company provides cross-selling products and services; investment advisory services; life insurance products; general insurance products, including motor, health, travel, crop, home, personal accident, property, marine, aviation, and liability insurance; venture capital funds; asset management services comprising portfolio management, mutual fund, and property investment management; and other services consisting of project management, investment consultancy, and property related services. It operates through a network of 474 outlets. The company was founded in 1977 and is headquartered in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "ANDHRA PETROCHEMICALS LTD." ,
+                   
+                   "ticker" : "ANDHRAPET" ,
+
+                   "address" : [ "Venkatarayapuram","West Godavari District","Tanuku 534215","India"],
+
+                   "contact" : {
+                                 "tel" : "91 88 1922 4075" ,
+                                 "website" : "http://www.andhrapetrochemicals.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "",
+                   
+                   "discription" : "The Andhra Petrochemicals Limited manufactures and sells oxo-alcohols in India. The company's oxo-alcohol includes 2-ethyl hexanol, which is used in applications, such as plasticizers, stabilizers, solvents, acrylates, and finishing compounds for ink; production of 2-ethyl hexyl acrylate; and nitrate esters, lube and fuel additives, surfactants, mining, solvent extractions, oil floatations, agricultural chemicals, engine machinery lubrication applications, etc., as well as N-butanol and I-butanol products. The Andhra Petrochemicals Limited was founded in 1984 and is based in Tanuku, India."
+
+                   },  
+
+
+                  {
+                   "name" : "ANSAL PROPERTIES &amp; INFRASTRUCTURE LTD." ,
+                   
+                   "ticker" : "ANSALAPI" ,
+
+                   "address" : [ "115, Ansal Bhawan","16, Kasturba Gandhi Marg","New Delhi 110001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 2335 3550" ,
+                                 "website" : "http://www.ansalapi.com"
+                               },
+
+                   "sector" : "Real Estate",
+                   "industry" : "Real Estate - General",
+                   "full time employee" : "",
+                   
+                   "discription" : "Ansal Properties & Infrastructure Limited engages in the real estate development business in India. The company develops hi-tech and integrated townships, condominiums, group housing, malls, shopping complexes, hotels, SEZs, IT Parks, and infrastructure and utility services, as well as other mixed-use and stand-alone developments in the residential, commercial, retail, and hospitality segments. It also provides facilities management services. The company was founded in 1967 and is based in New Delhi, India."
+
+                   },  
+
+
+                  {
+                   "name" : "APPLE FINANCE LTD." ,
+                   
+                   "ticker" : "APPLEFIN" ,
+
+                   "address" : [ "8, Apeejay House","130 Mumbai Samachar Marg","Mumbai 400023","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2288 6100" ,
+                                 "website" : "http://www.applefinance.co.in"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Credit Services",
+                   "full time employee" : "",
+                   
+                   "discription" : "Apple Finance Limited does not have significant operations. Previously, it was engaged primarily in computer education and financial services. The company was formerly known as Apple Leasing & Computers Limited and changed its name to Apple Finance Limited as a result of the demerger of its Computer Education division to Aptech Limited in 1996. Apple Finance Limited was incorporated in 1985 and is based in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "ARUNA HOTELS LTD." ,
+                   
+                   "ticker" : "ARUNAHTEL" ,
+
+                   "address" : [ "Aruna Centre","144-145, Sterling Road Nungambakkam","Chennai 600034","India"],
+
+                   "contact" : {
+                                 "tel" : "91 44 3988 4422" ,
+                                 "website" : "http://www.arunahotels.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Lodging",
+                   "full time employee" : "",
+                   
+                   "discription" : "Aruna Hotels Limited engages in the hotel operation business in India. It operates Hotel Aruna ? Chennai, which includes various facilities, such as 91 rooms, restaurant, swimming pool, banquet halls, gymnasium, cocktail lounge/bar, and business center. The company was incorporated in 1960 and is based in Chennai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BOMBAY DYEING &amp; MFG.CO.LTD." ,
+                   
+                   "ticker" : "BOMDYEING" ,
+
+                   "address" : [ "C-1, Wadia International Center","Pandurang Budhkar Marg Worli","Mumbai 400025","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6662 0000" ,
+                                 "website" : "http://www.bombaydyeing.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Textile Manufacturing",
+                   "full time employee" : "644",
+                   
+                   "discription" : "The Bombay Dyeing and Manufacturing Company Limited produces and sells polyester staple fiber products in India. It operates through Real Estate, Polyster, and Retail/Textile segments. The company is also involved in the manufacture of textile grade PET chips; and manufacture and retail of home textiles, including bedsheets, canvas, bath products, and co-ordinates. In addition, it develops real estate properties, such as residences, offices, hotels, serviced apartments, hospitals, schools, and retail facilities. The company also sells its products online, as well as exports its products to Europe, North and South America, the Middle East, Africa, and Asia. The Bombay Dyeing and Manufacturing Company Limited was founded in 1879 and is based in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "Asian Hotels (North) Limited" ,
+                   
+                   "ticker" : "ASIANHOTNR" ,
+
+                   "address" : [ "Bhikaiji Cama Place","M. G. Marg","New Delhi 110066","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 6677 1225" ,
+                                 "website" : "http://www.asianhotelsnorth.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Lodging",
+                   "full time employee" : "",
+                   
+                   "discription" : "Asian Hotels (North) Limited engages in the hospitality/hotel business in India. The company owns and operates Hyatt Regency, a five-star deluxe hotel in Delhi. It also operates two wind turbine generators in Maharashtra. In addition, the company provides offshore project consultancy services; and develops Villa Hotel Complex, including residential villas and golf course in Goa. Asian Hotels (North) Limited was incorporated in 1980 and is based in New Delhi, India."
+
+                   },  
+
+
+                  {
+                   "name" : "Assam Company (India) Limited" ,
+                   
+                   "ticker" : "ASSAMCO" ,
+
+                   "address" : [ "Assam Tea House","52, Chowringhee Road","Kolkata 700071","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2283 8306" ,
+                                 "website" : "http://www.assamco.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Farm Products",
+                   "full time employee" : "",
+                   
+                   "discription" : "Assam Company India Limited primarily engages in the cultivation, manufacture, and sale of tea in India and internationally. The company owns 14 tea estates in Assam. It also has interest in two oil and gas fields/blocks, including Amguri and AA-ON/7 located in the Arakan Basin in Assam. Assam Company India Limited was founded in 1839 and is headquartered in Kolkata, India."
+
+                   },  
+
+
+                  {
+                   "name" : "ATUL LTD." ,
+                   
+                   "ticker" : "ATUL" ,
+
+                   "address" : [ "Atul","Valsad 396020","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 26 3223 0000" ,
+                                 "website" : "http://www.atul.co.in"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "",
+                   
+                   "discription" : "Atul Ltd manufactures and sells chemical products worldwide. It operates in two segments, Life Science Chemicals; and Performance and Other Chemicals. It offers aromatics, such as ambrettolide, anethole, cresol mixture, manganese sulphate monohydrate, ortho cresol and methoxy toluene, phenyl acetic acid, skatole, and sodium sulfite and sulphate, as well as para anisic aldehyde, anisyl acetate and alcohol, anisyl propanal, cresidine, cresol, cresyl acetate and methyl ether, methoxy phenyl acetic acid and aceto nitrile; and 1,3-cyclohexanedione, 2-methylresorcinol, 4-chlororesorcinol, 4-hexylresorcinol, anisole, caustic soda lye, chlorosulphonic and hydrochloric acid, gypsum, hydrogen gas, liquid chlorine, liquid sulphur dioxide and trioxide, oleum, resoform, resorcinol, resorcinol dimethyl ether, sodium hypochlorite, sodium sulphite, and sulphuric acid. It also provides vat, reactive, sulphur, direct, disperse, acid/metal complex, solvent, and basic dyes; azoics colorants; organic pigments; optical brighteners; natural and synthetic food colors; and bulk chemicals, dye intermediates, and cement additives. In addition, it offers fungicides, herbicides, insecticides, and intermediates; amino acid derivatives, active pharmaceutical ingredients (API), API intermediates, and phosgene derivatives; and epoxy resins, curing agents, reactive diluents, sulfones, paints and adhesives, synthetic rubber, polyurethane, cyanoacrylate, PVC, and PVA. Further, it produces tissue culture raised date palm plants. It serves various industries, including adhesives, agriculture, animal feed, automobile, composites, construction, cosmetic, defense, dyestuff, electrical, electronics, flavor, food, footwear, fragrance, glass, home care, horticulture, hospitality, paint and coatings, paper, personal care, pharmaceutical, plastic, polymer, rubber, soap and detergent, sports, leisure, textile, tire, and wind energy. Atul Ltd was founded in 1947 and is headquartered in Valsad, India."
+
+                   },  
+
+
+                  {
+                   "name" : "ATV PROJECTS INDIA LTD." ,
+                   
+                   "ticker" : "ATVPR" ,
+
+                   "address" : [ "1201, Wind Fall Building","12th Floor Sahar Plaza Complex Andheri-Kurla Road, Andheri (East)","Mumbai 400059","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2838 0349" ,
+                                 "website" : "http://www.atvprojects.co.in"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Engineering & Construction",
+                   "full time employee" : "",
+                   
+                   "discription" : "ATV Projects India Limited manufactures and trades in engineering equipment in India. It offers desalters, cryogenic vessels, distillation columns, pressure vessels, heat exchangers, boilers, reactors, bullets, strippers, horton spheres, autoclaves, chemical plant equipment, towers, sugar plant equipment, tank-lined/unlined, cement plant equipment, mixers, hydro power plant equipment, crystallization, and evaporators; and bagasse fired water tube boilers, multifuel water and smoke tube boilers, fluidized bed combustion boilers, and waste heat recovery boilers. The company also constructs tanks for storing chemicals and petroleum products; and manufactures and sells fixed and floating roof tanks, as well as Horton spheres. Its products are used in nuclear, oil and gas, chemical, fertilizer, power plant, petrochemical, cement, sugar, and refinery fields. The company was founded in 1978 and is headquartered in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "AUTOLITE (INDIA) LTD." ,
+                   
+                   "ticker" : "AUTOLITIND" ,
+
+                   "address" : [ "Vishwakarma Industrial Area","D-469, Road No. 9A","Jaipur 302013","India"],
+
+                   "contact" : {
+                                 "tel" : "91 14 1233 3994" ,
+                                 "website" : "http://www.autopal.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Parts",
+                   "full time employee" : "",
+                   
+                   "discription" : "Autolite (India) Limited manufactures and sells automotive head lamps and halogen bulbs in India. The company also offers work lamps, LED lamps, fog lamps, turn signal lamps, incandescent bulbs, and miniature bulbs; and auxiliary, agricultural equipment/earth mover, and other lamps, as well as machines, dies, and molds. It serves original equipment manufacturers, as well as the replacement market. The company also exports its products to approximately 55 countries worldwide. Autolite (India) Limited was founded in 1970 and is based in Jaipur, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BAJAJ ELECTRICALS LTD.-$" ,
+                   
+                   "ticker" : "BAJAJELEC" ,
+
+                   "address" : [ "51, Mahatma Gandhi Road","Fort","Mumbai 400023","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2204 3780" ,
+                                 "website" : "http://www.bajajelectricals.com"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Consumer Electronics",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bajaj Electricals Limited engages in the consumer durables; and engineering, procurement, and construction businesses in India. It operates through Consumer Products; and Engineering & Projects, and Others segments. The company offers various appliances, including toasters, mixer-grinders, food processors, juicer mixer grinders, juicers, choppers and hand blenders, wet grinders, OTGs, microwave ovens, electric kettles, coffee makers, sandwich/pop-up toasters, induction cookers, rice cookers, pressure cookers, gas stoves, choppers, non-electric kitchen aids, platini products, irons, storage water heaters, gas water heaters, instant water heaters, room heaters, air coolers, hand mixers, electric cookers, and hair dryers. It also provides various fans comprising ceiling, table, pedestal, wall, personal, domestic, and heavy duty exhaust fans, as well as air circulators. In addition, the company offers luminaires, including industrial, commercial, cityscape, street, and area lighting products; and integrated building management solutions. Further, it provides general lighting service, special incandescent, fluorescent, compact fluorescent lamps, consumer luminaires, halogen and HID lamps, and various LED products and electrical accessories. Additionally, the company is involved in the design, engineering, supply, execution, and commissioning of illumination EPC SBU, power distribution, transmission line towers and sub-station SBU, high mast lighting systems, and lighting poles projects. It also generates wind energy. The company was formerly known as Radio Lamp Works Limited and changed its name to Bajaj Electricals Limited in October 1960. The company was incorporated in 1938 and is headquartered in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "Bajaj Hindusthan Sugar Limited" ,
+                   
+                   "ticker" : "BAJAJHIND" ,
+
+                   "address" : [ "Bajaj Bhawan B-10","Sector 3 Jamnalal Bajaj Marg","Noida 201301","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 0254 3939" ,
+                                 "website" : "http://www.bajajhindusthan.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "7,245",
+                   
+                   "discription" : "Bajaj Hindusthan Sugar Limited manufactures and sells sugar and alcohol/ethanol in India. It operates through Sugar and Distillery and Power segments. The company also generates power from the bagasse produced in its sugar mills; and sells power to the Uttar Pradesh State grid. In addition, it offers various sugar by-products, such as molasses, bagasse, fly ash, and press mud; and bio-compost/bio-manure. Further, the company serves alcohol-based chemical plants and oil companies. The company was formerly known as Bajaj Hindusthan Limited and changed its name to Bajaj Hindusthan Sugar Limited in January 2015. Bajaj Hindusthan Sugar Limited was incorporated in 1931 and is based in Noida, India."
+
+                   },  
+
+
+                  {
+                   "name" : "FORCE MOTORS LTD.-$" ,
+                   
+                   "ticker" : "FORCEMOT" ,
+
+                   "address" : [ "Mumbai-Pune Road","Akurdi","Pune 411035","India"],
+
+                   "contact" : {
+                                 "tel" : "91 20 2747 6381" ,
+                                 "website" : "http://www.forcemotors.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Manufacturers",
+                   "full time employee" : "",
+                   
+                   "discription" : "Force Motors Limited, an integrated automobile company, designs, develops, manufactures, and sells automotive components, aggregates, and vehicles in India. The company offers light commercial vehicles, multi-utility vehicles, small commercial vehicles, sports utility vehicles, and agricultural tractors, as well as diesel engines. It offers its products under the Traveller, TRAX, Gurkha, Balwan, and Kargo King. Force Motors Limited also exports its products to various countries in the Middle East, Asia, Latin America, and Africa. The company was incorporated in 1958 and is based in Pune, India. Force Motors Limited is a subsidiary of Jaya Hind Investments Private Limited."
+
+                   },  
+
+
+                  {
+                   "name" : "Bajaj Finance Limited" ,
+                   
+                   "ticker" : "BAJFINANCE" ,
+
+                   "address" : [ "Bajaj Finserv Corporate Office","3rd and 4th Floor Panchshil Tech Park, Off Pune ? Ahmednagar Road Viman Nagar","Pune 411 014","India"],
+
+                   "contact" : {
+                                 "tel" : "91 20 3040 5060" ,
+                                 "website" : "http://www.bajajfinserv.in/finance"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Credit Services",
+                   "full time employee" : "15,266",
+                   
+                   "discription" : "Bajaj Finance Limited operates as a non-banking financial company in India. The company offers consumer financing, including durable finance, lifestyle finance, digital product finance, EMI cards, personal loans, loan against fixed deposits, extended warranties, gold loans, professional loans, home loans, retail EMIs, and e-commerce and co-branded credit card services. It also provides SME lending services, such as e-commerce seller finance, home loans, loans against property, gold loans, lease rental discounting services, business loans, loans against shares, and professional loans; and commercial lending services comprising auto component vendor financing, large value lease rental discounting, loan against securities, financial institutions lending, light engineering finance, and corporate finance services. In addition, the company offers fixed deposits and mutual funds, and rural lending services. The company was formerly known as Bajaj Auto Finance Limited and changed its name to Bajaj Finance Limited in September 2010. The company was incorporated in 1987 and is based in Pune, India. Bajaj Finance Limited is a subsidiary of Bajaj Finserv Limited."
+
+                   },  
+
+
+                  {
+                   "name" : "BALRAMPUR CHINI MILLS LTD." ,
+                   
+                   "ticker" : "BALRAMCHIN" ,
+
+                   "address" : [ "FMC Fortuna","2nd Floor 234/3A, A.J.C. Bose Road","Kolkata 700020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2287 4749" ,
+                                 "website" : "http://www.chini.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "4,967",
+                   
+                   "discription" : "Balrampur Chini Mills Limited, an integrated sugar manufacturing company, manufactures and sells sugar from sugarcane in India. The company operates through three segments: Sugar, Cogeneration, and Distillery. It also offers molasses, industrial alcohol, ethanol, and bagasse. In addition, the company is involved in the generation and sale of electricity. Balrampur Chini Mills Limited was founded in 1975 and is headquartered in Kolkata, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BANCO PRODUCTS (INDIA) LTD.-$" ,
+                   
+                   "ticker" : "BANCOINDIA" ,
+
+                   "address" : [ "Bil, Near Bhaili Railway Station","Padra Road","Vadodara 391410","India"],
+
+                   "contact" : {
+                                 "tel" : "91 26 5268 0220" ,
+                                 "website" : "http://www.bancoindia.com"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Auto Parts",
+                   "full time employee" : "",
+                   
+                   "discription" : "Banco Products (India) Limited, together with its subsidiaries, designs, develops, manufactures, and sells automobile components for original equipment manufacturers in India, Europe, the United States, and internationally. The company offers engine cooling systems, such as brazed aluminum and copper brass radiators, inter-coolers, charge air coolers, and transmission and hydraulic type oil coolers; condensers, fuel coolers, and inverter and battery coolers; and accessories, such as expansion tanks, fan motor assemblies, fan shrouds and guards, and mounting plumbing accessories. It also provides sealing gaskets, including multi layered cylinder head gaskets; graphite composite gaskets; steel fiber composite gaskets; compressed fiber joining sheets/non-asbestos gaskets; aluminum edge molded gaskets; copper gaskets; rubber cork gaskets; and rubber precoated beaded gaskets. In addition, the company offers jointing gaskets and sheets; rubber products; and heat transfer products. Its products are primarily used in commercial vehicles, agricultural tractors and related machineries, power generation equipment, traction rail locomotives, earth moving equipment, material handling equipment, gensets, windmills, motorcycles, forestry equipment, and compressors. Banco Products (India) Limited was founded in 1961 and is based in Vadodara, India."
+
+                   },  
+
+
+                  {
+                   "name" : "CENTURY TEXTILES &amp; INDUSTRIES LTD." ,
+                   
+                   "ticker" : "CENTURYTEX" ,
+
+                   "address" : [ "Century Bhavan","Dr. Annie Besant Road Worli","Mumbai 400030","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2495 7000" ,
+                                 "website" : "http://www.centurytextind.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Building Materials",
+                   "full time employee" : "6,928",
+                   
+                   "discription" : "Century Textiles and Industries Limited manufactures and sells cement, textiles, and pulp and paper products in India. It operates through Textiles, Pulp and Paper, Cement, Real Estate, and Others segments. The company offers Portland Pozzolana cement, Portland slag cement, clinker, and ordinary Portland cement under the Birla Gold brand. It also provides shirting, suiting, fancy and finer varieties, and bed linen; and cotton textiles. In addition, the company offers writing and printing paper, tissue papers, and multilayer packaging boards, as well as raw material for viscose filament yarns, staple fibers, and paper grade pulp products. Further, it is involved in leasing of residential, commercial, and retail spaces; and undertaking salt works and chemicals business. The company also exports its products. Century Textiles and Industries Limited was incorporated in 1897 and is based in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BANNARI AMMAN SUGARS LTD." ,
+                   
+                   "ticker" : "BANARISUG" ,
+
+                   "address" : [ "1212, Trichy Road","Coimbatore 641018","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 42 2230 2277" ,
+                                 "website" : "http://www.bannari.com"
+                               },
+
+                   "sector" : "Consumer Defensive",
+                   "industry" : "Confectioners",
+                   "full time employee" : "1,893",
+                   
+                   "discription" : "Bannari Amman Sugars Limited primarily produces and sells sugar in India. It operates through Sugar, Power, Distillery, and Granite Products segments. The company manufactures and sells cane sugar; industrial alcohol, and extra neutral spirits; and granite blocks, and polished granite slabs and tiles; It also operates co-generation power plants and wind mills. The company was incorporated in 1983 and is based in Coimbatore, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BASF INDIA LTD." ,
+                   
+                   "ticker" : "BASF" ,
+
+                   "address" : [ "Plot No.12, TTC Area","Thane Belapur Road Turbhe","Navi Mumbai 400705","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6712 7777" ,
+                                 "website" : "http://www.basf.com/in"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "1,804",
+                   
+                   "discription" : "BASF India Limited manufactures and sells agricultural solutions, performance products, chemicals, and functional materials worldwide. Its Agricultural Solutions segment provides crop protection products, such as insecticides, herbicides, fungicides, and plant growth regulators. The company's Performance Products segment offers performance chemicals, dispersions and pigments, care chemicals, nutrition and health products, and paper chemicals for plastics and coatings, detergent formulators, pharmaceuticals, automobile, and oil industries. Its Chemicals segment provides intermediates, petrochemicals, and monomers to a range of industries, including pharmaceuticals, agrochemicals, coatings, epoxy, leather, food and feed, adhesives, dyes, etc. The company's Functional Materials & Solutions segment offers coatings for passenger cars, commercial vehicles, and two wheelers; construction chemicals; and construction systems, such as industrial floorings, grouting and anchoring systems, concrete repair and protection materials, crack repair and injection resins, joint sealants, tiling products, waterproofing membranes, and exterior insulation and facade systems. This segment also provides process catalysts to refining, petrochemicals, and downstream base and fine chemicals industries; and performance materials to consumer, construction, and industrial product applications, as well as to transportation industries. BASF India Limited was incorporated in 1943 and is based in Navi Mumbai, India. BASF India Limited operates as a subsidiary of BASF SE."
+
+                   },  
+
+
+                  {
+                   "name" : "BATA INDIA LTD." ,
+                   
+                   "ticker" : "BATAINDIA" ,
+
+                   "address" : [ "Bata House","418/02, MG Road Sector - 17","Gurugram 122002","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 4399 0100" ,
+                                 "website" : "http://www.bata.in"
+                               },
+
+                   "sector" : "Consumer Cyclical",
+                   "industry" : "Footwear & Accessories",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bata India Limited manufactures and trades in footwear and accessories through its retail and wholesale network in India. The company offers footwear in the categories of women, children, youth, sports, and men; and accessories, such as belts, wallets and clutches, handbags, and shoe care products for men, women, and kids. It sells its products primarily under the Bata, Bubblegummers, Bata Comfit, Footin, Disney, Hush Puppies, Marie Claire, Naturalizer, North Star, Power, Scholl, and Weinbrenner brands. The company operates through approximately 1,375 retail stores. It also exports its products. The company was formerly known as Bata Shoe Company Private Limited and changed its name to Bata India Limited in 1973. The company was incorporated in 1931 and is based in Gurugram, India. Bata India Limited is a subsidiary of Bata (BN) B.V."
+
+                   },  
+
+
+                  {
+                   "name" : "BEML LTD." ,
+                   
+                   "ticker" : "BEML" ,
+
+                   "address" : [ "BEML Soudha","23/1, 4th Main Sampangiramanagar","Bengaluru 560027","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 2296 3240" ,
+                                 "website" : "http://www.bemlindia.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "11,748",
+                   
+                   "discription" : "BEML Limited provides products and services to the mining and construction, rail and metro, and defense and aerospace sectors in India. The company offers mining machinery for opencast and underground mines; and produces machines, such as electric rope shovels, hydraulic excavators, bulldozers, wheel loaders, wheel dozers, dump trucks, motor graders, pipe layers, tire handlers, water sprinklers, backhoe loaders, mammoth walking draglines, side discharge loaders, load haul dumpers, winches, winders, granby cars, skips, etc. It also provides equipment for railways comprising integral rail coaches, overhead electric inspection cars, postal vans, AC/DC electric multiple units, D-EMUs, utility track vehicles, track laying equipment, broad-gauge rail buses, treasury vans, spoil disposal units, etc. In addition, the company manufactures defense equipment, including Tatra vehicles for all terrain operations, which comprise bridge layers, field artillery tractors, medium and heavy recovery vehicles, pontoon mainstream bridge systems, crash fire tenders, mobile mast vehicles, etc.; and supplies engineering mine ploughs, tank transportation trailers, weapon loading equipment, armored recovery vehicles, milrail coaches and wagons, aircraft weapon loading trolleys, and aircraft towing tractors, as well as jigs, fixtures, ground support and test equipment, and customized engineering services and solutions for the aerospace market. Further, it offers diesel engines and generator sets; hydraulic pumps, hydraulic cylinders, hydro-pneumatic suspensions, and control valves; and transmission, axle, and bevel gear products, as well as ejector and air cleaner assembly, and final drive products. Additionally, the company distributes industrial products and intermediaries; and exports its products to approximately 62 countries worldwide. The company was formerly known as Bharat Earth Movers Limited. BEML Limited was founded in 1964 and is based in Bengaluru, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BHARAT ELECTRONICS LTD." ,
+                   
+                   "ticker" : "BEL" ,
+
+                   "address" : [ "Outer Ring Road","Nagavara","Bengaluru 560045","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 2503 9300" ,
+                                 "website" : "http://www.bel-india.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Aerospace & Defense",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bharat Electronics Limited designs, manufactures, supplies, and exports electronic products/systems for defense and nondefense markets in India and internationally. Its defense products include defense communication products, land-based radars, naval systems, electronic warfare systems, avionics, electro optics, tank and armored fighting vehicle electronic systems, weapon systems, C4I systems, shelters and masts, simulators, and batteries; microwave tubes and power modules, microwave super components, digital multichannel data recorders, and hybrid micro circuits; and micro electro mechanical systems. The company's non defense products comprise e-governance systems, homeland security products, civil radars, integrated traffic management systems, solar power solutions, and telecom and broadcast systems; and PD and strategic products, silicon radiation detectors, passive vacuum devices, EMI filters, anti collision lights, and multichannel voice logging recorder systems. In addition, it offers electronic manufacturing services, such as PCB assembly and testing, precision machining and fabrication, optoelectronic components and assemblies, microwave integrated circuit assemblies, super components modules, cable assemblies and wiring harnesses, and antennae manufacturing services, as well as design and manufacture of transformers, coils, chokes, and sub-assemblies. Bharat Electronics Limited was incorporated in 1954 and is based in Bengaluru, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BHANSALI ENGINEERING POLYMERS LTD.-$" ,
+                   
+                   "ticker" : "BEPL" ,
+
+                   "address" : [ "Peninsula Heights","4th Floor, Unit No. 401 C D Barfiwala Road Andheri (West)","Mumbai 400058","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 2621 6060" ,
+                                 "website" : "http://www.bhansaliabs.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Chemicals",
+                   "full time employee" : "466",
+                   
+                   "discription" : "Bhansali Engineering Polymers Limited operates as an integrated petrochemical company in India. It manufactures and sells acrylonitrile butadiene styrene (ABS) and styrene acrylonitrile (SAN) resins/polymers. The company's products include general, heat resistant, flame retardant, transparent, and extrusion ABS; and ABS-polycarbonate alloys, glass reinforced ABS and SAN, PMMA-ABS alloys, and PVC modifiers. Its ABS resins are used as a raw material for companies dealing in automobiles, home appliances, telecommunications, luggage, bus body, and various other applications. Bhansali Engineering Polymers Limited was incorporated in 1986 and is based in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BHUSHAN STEEL LTD." ,
+                   
+                   "ticker" : "BHUSANSTL" ,
+
+                   "address" : [ "23, Site IV","Sahibabad Industrial Area","Ghaziabad 201010","India"],
+
+                   "contact" : {
+                                 "tel" : "91 12 0302 8000" ,
+                                 "website" : "http://www.bhushan-group.org"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Steel",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bhushan Steel Limited operates as a secondary steel producing company in India. It offers hot rolled coils, cold rolled steel coils and sheets, galvanized plain coils and sheets, galume sheets, color coated coils and tiles, hardened and tempered steel strips, high tensile steel strappings and strips, API pipes, alloy billets, and sponge iron, as well as OEM grade tubes, CRCAs, CRFHs, precision tubes, HFW/ERW pipes, and 3LP coated pipes. The company serves automobile, white goods/domestic appliances, and general engineering industries. It also exports its products internationally. The company was formerly known as Bhushan Steel & Strips Ltd. Bhushan Steel Limited was incorporated in 1983 and is based in Ghaziabad, India. As of May 18, 2018, Bhushan Steel Limited operates as a subsidiary of Tata Steel Limited."
+
+                   },  
+
+
+                  {
+                   "name" : "BIHAR SPONGE IRON LTD." ,
+                   
+                   "ticker" : "BIHSPONG" ,
+
+                   "address" : [ "Umesh Nagar","Chandil 832401","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "91 65 9123 2410" ,
+                                 "website" : "http://www.bsil.org.in"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Steel",
+                   "full time employee" : "",
+                   
+                   "discription" : "Bihar Sponge Iron Limited engages in the manufacture, production, purchase, export, and sale of sponge iron. The company was founded in 1982 and is based in Chandil, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BINANI INDUSTRIES LTD." ,
+                   
+                   "ticker" : "BINANIIND" ,
+
+                   "address" : [ "Mercantile Chambers","12, J.N. Heredia Marg Ballard Estate","Mumbai 400001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 3026 3000" ,
+                                 "website" : "http://www.binaniindustries.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Building Materials",
+                   "full time employee" : "",
+                   
+                   "discription" : "Binani Industries Limited, through its subsidiaries, manufactures and sells cement, zinc, and glass fiber and construction products in India and internationally. It also provides logistics and management services; and engages in the trading of shares and securities. In addition, the company offers ordinary Portland cement, Pozzolona Portland cement, and ground granulated blast-furnace slags; and fiberglass products and technologies for the reinforcement of thermoplastics and thermosets, and high-grade glass fiber. Further, it provides engineering, procurement, and construction services; consultancy and engineering services; and manufacturing services. Additionally, the company publishes a portfolio of trade journals, which provide information on the happenings in the metals, construction, and infrastructure industries, such as Minerals and Metals Review, a monthly magazine; Minerals and Metals Review Weekly, a tabloid that provides weekly wrap-up and updates on metal and market prices, trade intelligence, crucial industry issues, and news; Metals Today Daily, a daily electronic newsletter; and Construction Industry Review, a weekly tabloid. It also engages in the trading and export of goods; and provision of management support services and sublicensing of intellectual property rights, such as brands, logos, trademarks, etc. In addition, the company engages in infrastructure activities; provision of manpower management services; and the manufacture and trade of concrete admixture, cement products, clinker, limestone products, and electric power products. Binani Industries Limited was founded in 1872 and is based in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "Birla Cable Ltd" ,
+                   
+                   "ticker" : "BIRLACABLE" ,
+
+                   "address" : [ "Udyog Vihar","PO Chorhata","Rewa 486006","India"],
+
+                   "contact" : {
+                                 "tel" : "91 76 6240 0580" ,
+                                 "website" : "http://www.birlacable.com"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Communication Equipment",
+                   "full time employee" : "282",
+                   
+                   "discription" : "Birla Cable Limited manufactures and sells optical fiber cables, copper telecommunication cables, structured copper cables, and specialty wires and cables in India. The company provides optical fiber cables, including armored and unarmored, multi-tube ribbon type, di-electric rodent protected, di-electric self-supporting aerial, figure-8 type aerial, drop, central and multi tube micro, and interconnect cables. It also offers specialty cables, such as stainless steel wire armored tactical, fiber to antenna, coaxial, data communication, switchboard, drop, screened PCM, and CAT cables, as well as automobile wires. In addition, the company provides telecom fiber accessories comprising connectors, adapters, pigtails, patch cords, rackmounts, wall mounts, and cable accessories. Birla Cable Limited also exports its products. The company was formerly known as Birla Ericsson Optical Limited and changed its name to Birla Cable Limited in September 2016. Birla Cable Limited was incorporated in 1992 and is based in Rewa, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BLUE STAR LTD." ,
+                   
+                   "ticker" : "BLUESTARCO" ,
+
+                   "address" : [ "Kasturi Buildings","Mohan T Advani Chowk Jamshedji Tata Road","Mumbai 400020","India"],
+
+                   "contact" : {
+                                 "tel" : "91 22 6665 4000" ,
+                                 "website" : "http://www.bluestarindia.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "2,819",
+                   
+                   "discription" : "Blue Star Limited engages in the central air conditioning and commercial refrigeration business in India and internationally. The company operates through Electro Mechanical Projects and Packaged Air-Conditioning Systems, Unitary Products, and Professional Electronics and Industrial Systems segments. The Electro Mechanical Projects and Packaged Air-Conditioning Systems segment designs, manufactures, installs, commissions, and maintains central air conditioning plants, packaged/ducted systems, and variable refrigerant flow systems; and provides contracting services in electrification, plumbing, and fire-fighting, as well as after-sales services, such as revamp, retrofit, and upgrade services. The Unitary Products segment offers room air conditioners for residential and commercial applications, water purifiers, air purifiers, and air coolers; and manufactures and markets a range of commercial refrigeration products and cold chain equipment. The Professional Electronics and Industrial Systems segment trades and services testing machines, medical, analytical, test and measuring, data communications, and industrial products and systems. Blue Star Limited was founded in 1943 and is headquartered in Mumbai, India."
+
+                   },  
+
+
+                  {
+                   "name" : "DISA INDIA LTD." ,
+                   
+                   "ticker" : "DISAQ" ,
+
+                   "address" : [ "Kushal Garden Arcade","5th Floor 1A, Peenya Industrial Area Peenya 2nd Phase","Bengaluru 560058","India"],
+
+                   "contact" : {
+                                 "tel" : "91 80 4020 1400" ,
+                                 "website" : "http://www.disagroup.com"
+                               },
+
+                   "sector" : "Industrials",
+                   "industry" : "Diversified Industrials",
+                   "full time employee" : "",
+                   
+                   "discription" : "Disa India Limited develops, manufactures, and sells a range of metal casting production solutions in India and internationally. It offers molding solutions for the production of castings; mixers, sand multi controllers, and casting and sand cooling equipment; cassette type, cartridge type, pulse jet cylindrical bag, and silo vent filters; and airblast and wheelblast equipment, shortblast parts and services, and wheelabrator surface preparation equipment. The company also provides spare parts and upgrades, foundry optimization and training services. It serves automotive, agriculture, home and kitchen, infrastructure, machinery and engineering, and municipality industries. The company was incorporated in 1984 and is based in Bengaluru, India. DISA India Limited is a subsidiary of DISA Holding AG."
+
+                   },  
+
+
+                  {
+                   "name" : "BNK CAPITAL MARKETS LTD." ,
+                   
+                   "ticker" : "BNKCAP" ,
+
+                   "address" : [ "Mayfair Towers","2, Palm Avenue","Kolkata 700019","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2281 0560" ,
+                                 "website" : "http://www.bnkcapital.com/AboutUs/BNKCapitaMkt.aspx?id=2"
+                               },
+
+                   "sector" : "Financial Services",
+                   "industry" : "Capital Markets",
+                   "full time employee" : "",
+                   
+                   "discription" : "BNK Capital Markets Limited, a non-banking financial company, provides investment banking distribution, corporate finance, and advisory services in India. It operates an integrated investment portal for investors. The company was founded in 1986 and is based in Kolkata, India."
+
+                   },  
+
+
+                  {
+                   "name" : "BPL LTD." ,
+                   
+                   "ticker" : "BPL" ,
+
+                   "address" : [ "No. 64, Church Street","Bengaluru 560001","India","<br data-reactid="16"/>"],
+
+                   "contact" : {
+                                 "tel" : "" ,
+                                 "website" : "http://www.bpl.in"
+                               },
+
+                   "sector" : "Technology",
+                   "industry" : "Consumer Electronics",
+                   "full time employee" : "",
+                   
+                   "discription" : "BPL Limited manufactures and sells electronic products primarily in India. The company offers televisions, washing machines, refrigerators, microwave ovens, and others; and home security and automation solutions. It also provides products for consumer telecom, enterprise communication, and power line communication; and lighting solutions for infrastructure, enterprise, and home applications, as well as printed circuit boards. The company offers its products under the BPL brand, as well as sells its products through online. BPL Limited was founded in 1963 and is based in Bengaluru, India."
+
+                   },  
+
+
+                  {
+                   "name" : "CENTURY EXTRUSIONS LTD." ,
+                   
+                   "ticker" : "CENTEXT" ,
+
+                   "address" : [ "?N' Block","2nd Floor 113, Park Street","Kolkata 700016","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2229 1012" ,
+                                 "website" : "http://www.centuryextrusions.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Aluminum",
+                   "full time employee" : "341",
+                   
+                   "discription" : "Century Extrusions Limited manufactures and sells aluminum extruded products in India and internationally. It provides profiles for architectural applications, such as building systems, structural glazing, curtain walls, aluminum rolling shutters, windows, doors, partitions, false ceilings, tower bolts, hand rails, door handles, hinges, drapery rods, modular furniture, etc.; aluminum form works; road transport sections; rail coach windows and doors; manufacture of automobile components; and heat transfer in electronics and electrical gadgets. The company also offers profiles for electrical applications, including tubes and flats for bus bars; transmission line hardware, such as P.G. clamps; and H-connectors, repair sleeves, lugs, solar panels, etc. In addition, it provides profiles for engineering applications comprising motor housings, gear pump casings, ferrules, A.C. louvers, machinery parts, elevators, pneumatic actuators, pneumatic cylinders, valve bodies, etc.; and various defense applications and others. Further, the company offers extruded and cold drawn round bars, and hexagonal bars for various engineering applications; and extruded and cold drawn rods/wires in coil form for use as armor rods, lamp pin stock, metalizing wire, rivet stock, welding filler wire, etc. Additionally, it manufactures power transmission and distribution line hardware. The company markets its products under the Century brand name. Century Extrusions Limited was incorporated in 1988 and is headquartered in Kolkata, India."
+
+                   },  
+
+
+                  {
+                   "name" : "CESC LTD." ,
+                   
+                   "ticker" : "CESC" ,
+
+                   "address" : [ "CESC House","Chowringhee Square","Kolkata 700001","India"],
+
+                   "contact" : {
+                                 "tel" : "91 33 2225 6040" ,
+                                 "website" : "http://www.cesc.co.in"
+                               },
+
+                   "sector" : "Utilities",
+                   "industry" : "Utilities - Independent Power Producers",
+                   "full time employee" : "",
+                   
+                   "discription" : "CESC Limited, a power utility company, engages in the generation, transmission, and distribution of electricity to approximately 3.1 million domestic, industrial, and commercial users in the area of 567 square kilometers (km) of Kolkata and Howrah, West Bengal in India. It owns and operates three thermal power plants, including Budge Budge, Southern, and Titagarh generating stations generating 1125 megawatts (MW) of power; two thermal power plants with a capacity of power in Chandrapur, Maharashtra and Asansol, West Bengal; and transmission and distribution systems that comprise 474 km circuit of transmission lines linking the company's generating and receiving stations with 105 distribution stations, as well as 8,211 km circuit of HT lines, and 12,269 km circuit of LT lines. The company also owns and operates four wind power projects with a capacity of 24 MW at Dangri in Rajasthan; 26 MW at Surendranagar, Gujarat; 36 MW at Nipaniya, Madhya Pradesh; and 70 MW at Rojmal, Gujarat, as well as a solar plant with generating capacity of approximately 18 MW of power in Ramnathapuram, Tamil Nadu. In addition, it operates 124 stores under the Spencer's brand name comprising 39 hypermarkets and 29 cafes at high street/shopping malls, business and industry locations, hospital premises, and universities. The company's stores cater family needs covering groceries, home and personal care products, apparel and accessories, consumer durables, and lifestyle products. Further, it offers business process management services, such as customer management, transaction processing, and collection services to healthcare, telecom and media, banking, financial services, and insurance companies. Additionally, CESC Limited has a shopping mall, the Quest. The company was formerly known as The Calcutta Electric Supply Corporation (India) Limited and changed its name to CESC Limited in January 1987. CESC Limited was founded in 1897 and is headquartered in Kolkata, India."
+
+                   },  
+
+
+                  {
+                   "name" : "CHAMBAL FERTILISERS &amp; CHEMICALS LTD." ,
+                   
+                   "ticker" : "CHAMBLFERT" ,
+
+                   "address" : [ "Corporate One","First Floor 5, Commercial Centre Jasola","New Delhi 110025","India"],
+
+                   "contact" : {
+                                 "tel" : "91 11 4658 1300" ,
+                                 "website" : "http://www.chambalfertilisers.com"
+                               },
+
+                   "sector" : "Basic Materials",
+                   "industry" : "Agricultural Inputs",
+                   "full time employee" : "1,280",
+                   
+                   "discription" : "Chambal Fertilisers and Chemicals Limited, together with its subsidiaries, manufactures and sells fertilizers in India and internationally. It operates through Fertilisers and Other Agri Inputs segments. The company offers urea; and other agri-inputs, including di-ammonium phosphate, murate of potash, single super phosphate, pesticides, and seeds, as well as insecticides, fungicides, herbicides, NPK fertilizers, agrochemicals, Sulphur, micro-nutrients, complex fertilizers, and city compost primarily under the Uttam brand. It is also involved in designing, developing, marketing, and distribution of software products for the mortgage lending industry. The company was incorporated in 1985 and is based in New Delhi, India."
+
+                   }
+
+]  
+ }
